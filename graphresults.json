@@ -1,0 +1,5006 @@
+{
+  "data": {
+    "prices": [
+      {
+        "id": "ETH/USD/0x6345f467",
+        "price": "128115732959",
+        "timestamp": "1665528935"
+      },
+      {
+        "id": "ETH/USD/0x6345e66f",
+        "price": "127642500000",
+        "timestamp": "1665525359"
+      },
+      {
+        "id": "ETH/USD/0x6345e15f",
+        "price": "127701650056",
+        "timestamp": "1665524063"
+      },
+      {
+        "id": "ETH/USD/0x6345e003",
+        "price": "127903000000",
+        "timestamp": "1665523715"
+      },
+      {
+        "id": "ETH/USD/0x6345d98b",
+        "price": "128346995195",
+        "timestamp": "1665522059"
+      },
+      {
+        "id": "ETH/USD/0x6345d877",
+        "price": "128345000000",
+        "timestamp": "1665521783"
+      },
+      {
+        "id": "ETH/USD/0x6345ca2b",
+        "price": "128272945130",
+        "timestamp": "1665518123"
+      },
+      {
+        "id": "ETH/USD/0x6345c323",
+        "price": "128379935566",
+        "timestamp": "1665516323"
+      },
+      {
+        "id": "ETH/USD/0x6345bc1b",
+        "price": "127717311524",
+        "timestamp": "1665514523"
+      },
+      {
+        "id": "ETH/USD/0x6345b9e7",
+        "price": "128319846284",
+        "timestamp": "1665513959"
+      },
+      {
+        "id": "ETH/USD/0x6345ae2f",
+        "price": "129039401959",
+        "timestamp": "1665510959"
+      },
+      {
+        "id": "ETH/USD/0x6345a86b",
+        "price": "129054548838",
+        "timestamp": "1665509483"
+      },
+      {
+        "id": "ETH/USD/0x6345a037",
+        "price": "129731896606",
+        "timestamp": "1665507383"
+      },
+      {
+        "id": "ETH/USD/0x6345920f",
+        "price": "129432035279",
+        "timestamp": "1665503759"
+      },
+      {
+        "id": "ETH/USD/0x63458cff",
+        "price": "129084000000",
+        "timestamp": "1665502463"
+      },
+      {
+        "id": "ETH/USD/0x634583f3",
+        "price": "128435220000",
+        "timestamp": "1665500147"
+      },
+      {
+        "id": "ETH/USD/0x6345804b",
+        "price": "128422090000",
+        "timestamp": "1665499211"
+      },
+      {
+        "id": "ETH/USD/0x63457907",
+        "price": "127753460000",
+        "timestamp": "1665497351"
+      },
+      {
+        "id": "ETH/USD/0x6345774b",
+        "price": "127097487319",
+        "timestamp": "1665496907"
+      },
+      {
+        "id": "ETH/USD/0x634575e3",
+        "price": "127901480792",
+        "timestamp": "1665496547"
+      },
+      {
+        "id": "ETH/USD/0x6345714b",
+        "price": "127763847721",
+        "timestamp": "1665495371"
+      },
+      {
+        "id": "ETH/USD/0x634567d3",
+        "price": "128591679480",
+        "timestamp": "1665492947"
+      },
+      {
+        "id": "ETH/USD/0x63455dd7",
+        "price": "128876284461",
+        "timestamp": "1665490391"
+      },
+      {
+        "id": "ETH/USD/0x634559c3",
+        "price": "128195450000",
+        "timestamp": "1665489347"
+      },
+      {
+        "id": "ETH/USD/0x63454ba7",
+        "price": "128386490000",
+        "timestamp": "1665485735"
+      },
+      {
+        "id": "ETH/USD/0x63453d97",
+        "price": "127963000000",
+        "timestamp": "1665482135"
+      },
+      {
+        "id": "ETH/USD/0x63452f93",
+        "price": "128470400000",
+        "timestamp": "1665478547"
+      },
+      {
+        "id": "ETH/USD/0x634522a3",
+        "price": "128379000000",
+        "timestamp": "1665475235"
+      },
+      {
+        "id": "ETH/USD/0x634521a7",
+        "price": "128260080000",
+        "timestamp": "1665474983"
+      },
+      {
+        "id": "ETH/USD/0x634514e7",
+        "price": "127960687240",
+        "timestamp": "1665471719"
+      },
+      {
+        "id": "ETH/USD/0x634513a3",
+        "price": "128028862441",
+        "timestamp": "1665471395"
+      },
+      {
+        "id": "ETH/USD/0x63450f47",
+        "price": "128205228235",
+        "timestamp": "1665470279"
+      },
+      {
+        "id": "ETH/USD/0x63450557",
+        "price": "127560000000",
+        "timestamp": "1665467735"
+      },
+      {
+        "id": "ETH/USD/0x6344f73b",
+        "price": "127644000000",
+        "timestamp": "1665464123"
+      },
+      {
+        "id": "ETH/USD/0x6344e943",
+        "price": "127840000000",
+        "timestamp": "1665460547"
+      },
+      {
+        "id": "ETH/USD/0x6344db33",
+        "price": "127844485079",
+        "timestamp": "1665456947"
+      },
+      {
+        "id": "ETH/USD/0x6344cd23",
+        "price": "127630000000",
+        "timestamp": "1665453347"
+      },
+      {
+        "id": "ETH/USD/0x6344cb2b",
+        "price": "127233019547",
+        "timestamp": "1665452843"
+      },
+      {
+        "id": "ETH/USD/0x6344bf13",
+        "price": "127967817841",
+        "timestamp": "1665449747"
+      },
+      {
+        "id": "ETH/USD/0x6344ba3f",
+        "price": "128150553246",
+        "timestamp": "1665448511"
+      },
+      {
+        "id": "ETH/USD/0x6344b4ff",
+        "price": "127467562576",
+        "timestamp": "1665447167"
+      },
+      {
+        "id": "ETH/USD/0x6344b2e3",
+        "price": "128332530204",
+        "timestamp": "1665446627"
+      },
+      {
+        "id": "ETH/USD/0x6344b103",
+        "price": "129072400000",
+        "timestamp": "1665446147"
+      },
+      {
+        "id": "ETH/USD/0x6344a2f3",
+        "price": "129421127509",
+        "timestamp": "1665442547"
+      },
+      {
+        "id": "ETH/USD/0x634499ff",
+        "price": "129028223136",
+        "timestamp": "1665440255"
+      },
+      {
+        "id": "ETH/USD/0x634497d7",
+        "price": "129727392283",
+        "timestamp": "1665439703"
+      },
+      {
+        "id": "ETH/USD/0x634494d7",
+        "price": "130456000000",
+        "timestamp": "1665438935"
+      },
+      {
+        "id": "ETH/USD/0x6344925b",
+        "price": "130424439155",
+        "timestamp": "1665438299"
+      },
+      {
+        "id": "ETH/USD/0x634486d3",
+        "price": "130756021598",
+        "timestamp": "1665435347"
+      },
+      {
+        "id": "ETH/USD/0x634478b7",
+        "price": "130894000000",
+        "timestamp": "1665431735"
+      },
+      {
+        "id": "ETH/USD/0x63446aa7",
+        "price": "130842000000",
+        "timestamp": "1665428135"
+      },
+      {
+        "id": "ETH/USD/0x63445caf",
+        "price": "131260000000",
+        "timestamp": "1665424559"
+      },
+      {
+        "id": "ETH/USD/0x63445c1f",
+        "price": "131449486995",
+        "timestamp": "1665424415"
+      },
+      {
+        "id": "ETH/USD/0x63445acf",
+        "price": "130767417153",
+        "timestamp": "1665424079"
+      },
+      {
+        "id": "ETH/USD/0x63444e87",
+        "price": "130093641099",
+        "timestamp": "1665420935"
+      },
+      {
+        "id": "ETH/USD/0x634446fb",
+        "price": "130159565000",
+        "timestamp": "1665419003"
+      },
+      {
+        "id": "ETH/USD/0x6344406b",
+        "price": "130920000000",
+        "timestamp": "1665417323"
+      },
+      {
+        "id": "ETH/USD/0x634438d3",
+        "price": "131088000000",
+        "timestamp": "1665415379"
+      },
+      {
+        "id": "ETH/USD/0x63443267",
+        "price": "130416721590",
+        "timestamp": "1665413735"
+      },
+      {
+        "id": "ETH/USD/0x63442e6b",
+        "price": "130980530915",
+        "timestamp": "1665412715"
+      },
+      {
+        "id": "ETH/USD/0x63442cdf",
+        "price": "131723588427",
+        "timestamp": "1665412319"
+      },
+      {
+        "id": "ETH/USD/0x6344244b",
+        "price": "131018929130",
+        "timestamp": "1665410123"
+      },
+      {
+        "id": "ETH/USD/0x6344165f",
+        "price": "131582000000",
+        "timestamp": "1665406559"
+      },
+      {
+        "id": "ETH/USD/0x6344082b",
+        "price": "131450000000",
+        "timestamp": "1665402923"
+      },
+      {
+        "id": "ETH/USD/0x6343fa33",
+        "price": "131170420130",
+        "timestamp": "1665399347"
+      },
+      {
+        "id": "ETH/USD/0x6343ec23",
+        "price": "131260000000",
+        "timestamp": "1665395747"
+      },
+      {
+        "id": "ETH/USD/0x6343de13",
+        "price": "130604200000",
+        "timestamp": "1665392147"
+      },
+      {
+        "id": "ETH/USD/0x6343d82b",
+        "price": "130157369291",
+        "timestamp": "1665390635"
+      },
+      {
+        "id": "ETH/USD/0x6343d6e7",
+        "price": "130982000000",
+        "timestamp": "1665390311"
+      },
+      {
+        "id": "ETH/USD/0x6343d12f",
+        "price": "131693269666",
+        "timestamp": "1665388847"
+      },
+      {
+        "id": "ETH/USD/0x6343d003",
+        "price": "131671000000",
+        "timestamp": "1665388547"
+      },
+      {
+        "id": "ETH/USD/0x6343c1f3",
+        "price": "131418748038",
+        "timestamp": "1665384947"
+      },
+      {
+        "id": "ETH/USD/0x6343b3d7",
+        "price": "131822621803",
+        "timestamp": "1665381335"
+      },
+      {
+        "id": "ETH/USD/0x6343aeaf",
+        "price": "131750000000",
+        "timestamp": "1665380015"
+      },
+      {
+        "id": "ETH/USD/0x6343a5c7",
+        "price": "132507910000",
+        "timestamp": "1665377735"
+      },
+      {
+        "id": "ETH/USD/0x634397c3",
+        "price": "132282308948",
+        "timestamp": "1665374147"
+      },
+      {
+        "id": "ETH/USD/0x634389a7",
+        "price": "132461288777",
+        "timestamp": "1665370535"
+      },
+      {
+        "id": "ETH/USD/0x63438077",
+        "price": "132620000000",
+        "timestamp": "1665368183"
+      },
+      {
+        "id": "ETH/USD/0x63437b8b",
+        "price": "133310000000",
+        "timestamp": "1665366923"
+      },
+      {
+        "id": "ETH/USD/0x63436d7b",
+        "price": "133169920000",
+        "timestamp": "1665363323"
+      },
+      {
+        "id": "ETH/USD/0x63436bfb",
+        "price": "133125242095",
+        "timestamp": "1665362939"
+      },
+      {
+        "id": "ETH/USD/0x63435f6b",
+        "price": "132255673192",
+        "timestamp": "1665359723"
+      },
+      {
+        "id": "ETH/USD/0x63435347",
+        "price": "131800351732",
+        "timestamp": "1665356615"
+      },
+      {
+        "id": "ETH/USD/0x63435323",
+        "price": "131811000000",
+        "timestamp": "1665356579"
+      },
+      {
+        "id": "ETH/USD/0x63435197",
+        "price": "131822000000",
+        "timestamp": "1665356183"
+      },
+      {
+        "id": "ETH/USD/0x634344bf",
+        "price": "132064996854",
+        "timestamp": "1665352895"
+      },
+      {
+        "id": "ETH/USD/0x6343436f",
+        "price": "132177000000",
+        "timestamp": "1665352559"
+      },
+      {
+        "id": "ETH/USD/0x63433553",
+        "price": "132063450000",
+        "timestamp": "1665348947"
+      },
+      {
+        "id": "ETH/USD/0x6343274f",
+        "price": "132090070868",
+        "timestamp": "1665345359"
+      },
+      {
+        "id": "ETH/USD/0x63431d8f",
+        "price": "131634362365",
+        "timestamp": "1665342863"
+      },
+      {
+        "id": "ETH/USD/0x63431933",
+        "price": "132515711053",
+        "timestamp": "1665341747"
+      },
+      {
+        "id": "ETH/USD/0x63430b17",
+        "price": "132354000000",
+        "timestamp": "1665338135"
+      },
+      {
+        "id": "ETH/USD/0x6342fd13",
+        "price": "132597470000",
+        "timestamp": "1665334547"
+      },
+      {
+        "id": "ETH/USD/0x6342ef03",
+        "price": "132636986001",
+        "timestamp": "1665330947"
+      },
+      {
+        "id": "ETH/USD/0x6342e0f3",
+        "price": "132576000000",
+        "timestamp": "1665327347"
+      },
+      {
+        "id": "ETH/USD/0x6342d2d7",
+        "price": "132312000000",
+        "timestamp": "1665323735"
+      },
+      {
+        "id": "ETH/USD/0x6342c4c7",
+        "price": "132737340000",
+        "timestamp": "1665320135"
+      },
+      {
+        "id": "ETH/USD/0x6342b6b7",
+        "price": "132379000000",
+        "timestamp": "1665316535"
+      },
+      {
+        "id": "ETH/USD/0x6342a8a7",
+        "price": "132198769704",
+        "timestamp": "1665312935"
+      },
+      {
+        "id": "ETH/USD/0x6342a613",
+        "price": "132422020928",
+        "timestamp": "1665312275"
+      },
+      {
+        "id": "ETH/USD/0x63429a8b",
+        "price": "131728000000",
+        "timestamp": "1665309323"
+      },
+      {
+        "id": "ETH/USD/0x63428c7b",
+        "price": "131517424096",
+        "timestamp": "1665305723"
+      },
+      {
+        "id": "ETH/USD/0x63427f97",
+        "price": "131509666809",
+        "timestamp": "1665302423"
+      },
+      {
+        "id": "ETH/USD/0x63427e8f",
+        "price": "131531928235",
+        "timestamp": "1665302159"
+      },
+      {
+        "id": "ETH/USD/0x6342707f",
+        "price": "131715000000",
+        "timestamp": "1665298559"
+      },
+      {
+        "id": "ETH/USD/0x6342627b",
+        "price": "131453670000",
+        "timestamp": "1665294971"
+      },
+      {
+        "id": "ETH/USD/0x63425453",
+        "price": "131259000000",
+        "timestamp": "1665291347"
+      },
+      {
+        "id": "ETH/USD/0x63424643",
+        "price": "130930000000",
+        "timestamp": "1665287747"
+      },
+      {
+        "id": "ETH/USD/0x63423833",
+        "price": "130938000000",
+        "timestamp": "1665284147"
+      },
+      {
+        "id": "ETH/USD/0x63422a23",
+        "price": "131064474877",
+        "timestamp": "1665280547"
+      },
+      {
+        "id": "ETH/USD/0x63421c13",
+        "price": "131288421654",
+        "timestamp": "1665276947"
+      },
+      {
+        "id": "ETH/USD/0x63420e03",
+        "price": "131522000000",
+        "timestamp": "1665273347"
+      },
+      {
+        "id": "ETH/USD/0x6341ffe7",
+        "price": "131196000000",
+        "timestamp": "1665269735"
+      },
+      {
+        "id": "ETH/USD/0x6341f72f",
+        "price": "130820000000",
+        "timestamp": "1665267503"
+      },
+      {
+        "id": "ETH/USD/0x6341f40b",
+        "price": "130945145101",
+        "timestamp": "1665266699"
+      },
+      {
+        "id": "ETH/USD/0x6341f213",
+        "price": "130973000000",
+        "timestamp": "1665266195"
+      },
+      {
+        "id": "ETH/USD/0x6341f0ff",
+        "price": "130800919084",
+        "timestamp": "1665265919"
+      },
+      {
+        "id": "ETH/USD/0x6341eee3",
+        "price": "131460940970",
+        "timestamp": "1665265379"
+      },
+      {
+        "id": "ETH/USD/0x6341e3bb",
+        "price": "132458292373",
+        "timestamp": "1665262523"
+      },
+      {
+        "id": "ETH/USD/0x6341d5b7",
+        "price": "132404000000",
+        "timestamp": "1665258935"
+      },
+      {
+        "id": "ETH/USD/0x6341c7a7",
+        "price": "132482128490",
+        "timestamp": "1665255335"
+      },
+      {
+        "id": "ETH/USD/0x6341b997",
+        "price": "132819967166",
+        "timestamp": "1665251735"
+      },
+      {
+        "id": "ETH/USD/0x6341ab7b",
+        "price": "132823050447",
+        "timestamp": "1665248123"
+      },
+      {
+        "id": "ETH/USD/0x63419d77",
+        "price": "132497740009",
+        "timestamp": "1665244535"
+      },
+      {
+        "id": "ETH/USD/0x63418f73",
+        "price": "132426000000",
+        "timestamp": "1665240947"
+      },
+      {
+        "id": "ETH/USD/0x63418163",
+        "price": "132592177032",
+        "timestamp": "1665237347"
+      },
+      {
+        "id": "ETH/USD/0x63417353",
+        "price": "132854219331",
+        "timestamp": "1665233747"
+      },
+      {
+        "id": "ETH/USD/0x63416543",
+        "price": "132878000000",
+        "timestamp": "1665230147"
+      },
+      {
+        "id": "ETH/USD/0x63415727",
+        "price": "132806086404",
+        "timestamp": "1665226535"
+      },
+      {
+        "id": "ETH/USD/0x63414917",
+        "price": "132678904124",
+        "timestamp": "1665222935"
+      },
+      {
+        "id": "ETH/USD/0x63413b13",
+        "price": "132575000000",
+        "timestamp": "1665219347"
+      },
+      {
+        "id": "ETH/USD/0x63412e23",
+        "price": "133069690000",
+        "timestamp": "1665216035"
+      },
+      {
+        "id": "ETH/USD/0x63412cf7",
+        "price": "133003000000",
+        "timestamp": "1665215735"
+      },
+      {
+        "id": "ETH/USD/0x63411f0b",
+        "price": "133094162421",
+        "timestamp": "1665212171"
+      },
+      {
+        "id": "ETH/USD/0x634110cb",
+        "price": "133021801586",
+        "timestamp": "1665208523"
+      },
+      {
+        "id": "ETH/USD/0x634102bb",
+        "price": "132700121882",
+        "timestamp": "1665204923"
+      },
+      {
+        "id": "ETH/USD/0x6340f4b7",
+        "price": "133238448766",
+        "timestamp": "1665201335"
+      },
+      {
+        "id": "ETH/USD/0x6340e69b",
+        "price": "133365516987",
+        "timestamp": "1665197723"
+      },
+      {
+        "id": "ETH/USD/0x6340d897",
+        "price": "133445100000",
+        "timestamp": "1665194135"
+      },
+      {
+        "id": "ETH/USD/0x6340ca93",
+        "price": "133383342681",
+        "timestamp": "1665190547"
+      },
+      {
+        "id": "ETH/USD/0x6340bc83",
+        "price": "133185595632",
+        "timestamp": "1665186947"
+      },
+      {
+        "id": "ETH/USD/0x6340ae73",
+        "price": "133468177989",
+        "timestamp": "1665183347"
+      },
+      {
+        "id": "ETH/USD/0x6340a993",
+        "price": "133391469278",
+        "timestamp": "1665182099"
+      },
+      {
+        "id": "ETH/USD/0x6340a057",
+        "price": "133481002204",
+        "timestamp": "1665179735"
+      },
+      {
+        "id": "ETH/USD/0x63409247",
+        "price": "133153704459",
+        "timestamp": "1665176135"
+      },
+      {
+        "id": "ETH/USD/0x63408437",
+        "price": "132647000000",
+        "timestamp": "1665172535"
+      },
+      {
+        "id": "ETH/USD/0x63407627",
+        "price": "132666400000",
+        "timestamp": "1665168935"
+      },
+      {
+        "id": "ETH/USD/0x63406817",
+        "price": "132426000000",
+        "timestamp": "1665165335"
+      },
+      {
+        "id": "ETH/USD/0x63405a07",
+        "price": "132427481524",
+        "timestamp": "1665161735"
+      },
+      {
+        "id": "ETH/USD/0x634052e7",
+        "price": "132516800000",
+        "timestamp": "1665159911"
+      },
+      {
+        "id": "ETH/USD/0x63404c03",
+        "price": "133339000000",
+        "timestamp": "1665158147"
+      },
+      {
+        "id": "ETH/USD/0x63404a83",
+        "price": "133262007636",
+        "timestamp": "1665157763"
+      },
+      {
+        "id": "ETH/USD/0x63403ddb",
+        "price": "134061000000",
+        "timestamp": "1665154523"
+      },
+      {
+        "id": "ETH/USD/0x63403517",
+        "price": "133911000000",
+        "timestamp": "1665152279"
+      },
+      {
+        "id": "ETH/USD/0x63402fd7",
+        "price": "133231120573",
+        "timestamp": "1665150935"
+      },
+      {
+        "id": "ETH/USD/0x63402ca7",
+        "price": "133605000000",
+        "timestamp": "1665150119"
+      },
+      {
+        "id": "ETH/USD/0x63402a8b",
+        "price": "132931108869",
+        "timestamp": "1665149579"
+      },
+      {
+        "id": "ETH/USD/0x6340275b",
+        "price": "133648099707",
+        "timestamp": "1665148763"
+      },
+      {
+        "id": "ETH/USD/0x634021c7",
+        "price": "132850000000",
+        "timestamp": "1665147335"
+      },
+      {
+        "id": "ETH/USD/0x634020d7",
+        "price": "132642000000",
+        "timestamp": "1665147095"
+      },
+      {
+        "id": "ETH/USD/0x63401fc3",
+        "price": "133422534941",
+        "timestamp": "1665146819"
+      },
+      {
+        "id": "ETH/USD/0x63401c27",
+        "price": "134094619944",
+        "timestamp": "1665145895"
+      },
+      {
+        "id": "ETH/USD/0x63401ba3",
+        "price": "134803285000",
+        "timestamp": "1665145763"
+      },
+      {
+        "id": "ETH/USD/0x634013cf",
+        "price": "135579000000",
+        "timestamp": "1665143759"
+      },
+      {
+        "id": "ETH/USD/0x634005b3",
+        "price": "135521000000",
+        "timestamp": "1665140147"
+      },
+      {
+        "id": "ETH/USD/0x633ff7a3",
+        "price": "135689003148",
+        "timestamp": "1665136547"
+      },
+      {
+        "id": "ETH/USD/0x633fe993",
+        "price": "135623000000",
+        "timestamp": "1665132947"
+      },
+      {
+        "id": "ETH/USD/0x633fdca3",
+        "price": "135625120956",
+        "timestamp": "1665129635"
+      },
+      {
+        "id": "ETH/USD/0x633fdb8f",
+        "price": "135759900962",
+        "timestamp": "1665129359"
+      },
+      {
+        "id": "ETH/USD/0x633fcd67",
+        "price": "135102187176",
+        "timestamp": "1665125735"
+      },
+      {
+        "id": "ETH/USD/0x633fc74f",
+        "price": "134717882184",
+        "timestamp": "1665124175"
+      },
+      {
+        "id": "ETH/USD/0x633fbf6f",
+        "price": "135550000000",
+        "timestamp": "1665122159"
+      },
+      {
+        "id": "ETH/USD/0x633fb147",
+        "price": "135438924852",
+        "timestamp": "1665118535"
+      },
+      {
+        "id": "ETH/USD/0x633fa337",
+        "price": "135620000000",
+        "timestamp": "1665114935"
+      },
+      {
+        "id": "ETH/USD/0x633f9647",
+        "price": "135687000000",
+        "timestamp": "1665111623"
+      },
+      {
+        "id": "ETH/USD/0x633f9557",
+        "price": "135688420000",
+        "timestamp": "1665111383"
+      },
+      {
+        "id": "ETH/USD/0x633f872f",
+        "price": "135522366260",
+        "timestamp": "1665107759"
+      },
+      {
+        "id": "ETH/USD/0x633f791f",
+        "price": "135636670000",
+        "timestamp": "1665104159"
+      },
+      {
+        "id": "ETH/USD/0x633f7013",
+        "price": "135848548676",
+        "timestamp": "1665101843"
+      },
+      {
+        "id": "ETH/USD/0x633f6b0f",
+        "price": "135115018951",
+        "timestamp": "1665100559"
+      },
+      {
+        "id": "ETH/USD/0x633f5ce7",
+        "price": "135251682945",
+        "timestamp": "1665096935"
+      },
+      {
+        "id": "ETH/USD/0x633f5c03",
+        "price": "135235000000",
+        "timestamp": "1665096707"
+      },
+      {
+        "id": "ETH/USD/0x633f5117",
+        "price": "135443868828",
+        "timestamp": "1665093911"
+      },
+      {
+        "id": "ETH/USD/0x633f500f",
+        "price": "134752981617",
+        "timestamp": "1665093647"
+      },
+      {
+        "id": "ETH/USD/0x633f4ee3",
+        "price": "135562110000",
+        "timestamp": "1665093347"
+      },
+      {
+        "id": "ETH/USD/0x633f49d3",
+        "price": "135641000000",
+        "timestamp": "1665092051"
+      },
+      {
+        "id": "ETH/USD/0x633f40c7",
+        "price": "136378720982",
+        "timestamp": "1665089735"
+      },
+      {
+        "id": "ETH/USD/0x633f32b7",
+        "price": "136080000000",
+        "timestamp": "1665086135"
+      },
+      {
+        "id": "ETH/USD/0x633f24a7",
+        "price": "135782100000",
+        "timestamp": "1665082535"
+      },
+      {
+        "id": "ETH/USD/0x633f230f",
+        "price": "135759883259",
+        "timestamp": "1665082127"
+      },
+      {
+        "id": "ETH/USD/0x633f16a3",
+        "price": "136482842925",
+        "timestamp": "1665078947"
+      },
+      {
+        "id": "ETH/USD/0x633f0887",
+        "price": "136476000000",
+        "timestamp": "1665075335"
+      },
+      {
+        "id": "ETH/USD/0x633efbbb",
+        "price": "136104078473",
+        "timestamp": "1665072059"
+      },
+      {
+        "id": "ETH/USD/0x633efa77",
+        "price": "136798000000",
+        "timestamp": "1665071735"
+      },
+      {
+        "id": "ETH/USD/0x633eec5b",
+        "price": "136877682315",
+        "timestamp": "1665068123"
+      },
+      {
+        "id": "ETH/USD/0x633eeb17",
+        "price": "137098531765",
+        "timestamp": "1665067799"
+      },
+      {
+        "id": "ETH/USD/0x633ee98b",
+        "price": "136255400000",
+        "timestamp": "1665067403"
+      },
+      {
+        "id": "ETH/USD/0x633edfef",
+        "price": "135441000000",
+        "timestamp": "1665064943"
+      },
+      {
+        "id": "ETH/USD/0x633edf3b",
+        "price": "136630000000",
+        "timestamp": "1665064763"
+      },
+      {
+        "id": "ETH/USD/0x633ede4b",
+        "price": "137340000000",
+        "timestamp": "1665064523"
+      },
+      {
+        "id": "ETH/USD/0x633edb03",
+        "price": "137666785994",
+        "timestamp": "1665063683"
+      },
+      {
+        "id": "ETH/USD/0x633ed95f",
+        "price": "136894160000",
+        "timestamp": "1665063263"
+      },
+      {
+        "id": "ETH/USD/0x633ed257",
+        "price": "136184004846",
+        "timestamp": "1665061463"
+      },
+      {
+        "id": "ETH/USD/0x633ed05f",
+        "price": "136973000000",
+        "timestamp": "1665060959"
+      },
+      {
+        "id": "ETH/USD/0x633eca9b",
+        "price": "137573767601",
+        "timestamp": "1665059483"
+      },
+      {
+        "id": "ETH/USD/0x633ec243",
+        "price": "136747887721",
+        "timestamp": "1665057347"
+      },
+      {
+        "id": "ETH/USD/0x633ebdff",
+        "price": "136553000000",
+        "timestamp": "1665056255"
+      },
+      {
+        "id": "ETH/USD/0x633eb427",
+        "price": "135818000000",
+        "timestamp": "1665053735"
+      },
+      {
+        "id": "ETH/USD/0x633ea617",
+        "price": "135916000000",
+        "timestamp": "1665050135"
+      },
+      {
+        "id": "ETH/USD/0x633e97fb",
+        "price": "135877757654",
+        "timestamp": "1665046523"
+      },
+      {
+        "id": "ETH/USD/0x633e90ff",
+        "price": "136054112171",
+        "timestamp": "1665044735"
+      },
+      {
+        "id": "ETH/USD/0x633e8b17",
+        "price": "136852574269",
+        "timestamp": "1665043223"
+      },
+      {
+        "id": "ETH/USD/0x633e89eb",
+        "price": "136827931083",
+        "timestamp": "1665042923"
+      },
+      {
+        "id": "ETH/USD/0x633e7bdb",
+        "price": "136845740563",
+        "timestamp": "1665039323"
+      },
+      {
+        "id": "ETH/USD/0x633e700b",
+        "price": "136680000000",
+        "timestamp": "1665036299"
+      },
+      {
+        "id": "ETH/USD/0x633e6def",
+        "price": "137393180441",
+        "timestamp": "1665035759"
+      },
+      {
+        "id": "ETH/USD/0x633e5fdf",
+        "price": "137734508545",
+        "timestamp": "1665032159"
+      },
+      {
+        "id": "ETH/USD/0x633e56d3",
+        "price": "138013535421",
+        "timestamp": "1665029843"
+      },
+      {
+        "id": "ETH/USD/0x633e51c3",
+        "price": "137110000000",
+        "timestamp": "1665028547"
+      },
+      {
+        "id": "ETH/USD/0x633e43b3",
+        "price": "137461847828",
+        "timestamp": "1665024947"
+      },
+      {
+        "id": "ETH/USD/0x633e35a3",
+        "price": "137870000000",
+        "timestamp": "1665021347"
+      },
+      {
+        "id": "ETH/USD/0x633e2793",
+        "price": "137563000000",
+        "timestamp": "1665017747"
+      },
+      {
+        "id": "ETH/USD/0x633e2607",
+        "price": "137564000000",
+        "timestamp": "1665017351"
+      },
+      {
+        "id": "ETH/USD/0x633e1dbb",
+        "price": "136104207371",
+        "timestamp": "1665015227"
+      },
+      {
+        "id": "ETH/USD/0x633e1a13",
+        "price": "135334141305",
+        "timestamp": "1665014291"
+      },
+      {
+        "id": "ETH/USD/0x633e19bf",
+        "price": "135336616258",
+        "timestamp": "1665014207"
+      },
+      {
+        "id": "ETH/USD/0x633e0e73",
+        "price": "135202000000",
+        "timestamp": "1665011315"
+      },
+      {
+        "id": "ETH/USD/0x633e0b73",
+        "price": "135511824575",
+        "timestamp": "1665010547"
+      },
+      {
+        "id": "ETH/USD/0x633e09b7",
+        "price": "135580000000",
+        "timestamp": "1665010103"
+      },
+      {
+        "id": "ETH/USD/0x633dfd63",
+        "price": "134896000000",
+        "timestamp": "1665006947"
+      },
+      {
+        "id": "ETH/USD/0x633def53",
+        "price": "134773654917",
+        "timestamp": "1665003347"
+      },
+      {
+        "id": "ETH/USD/0x633de143",
+        "price": "135150568545",
+        "timestamp": "1664999747"
+      },
+      {
+        "id": "ETH/USD/0x633dd633",
+        "price": "135386787673",
+        "timestamp": "1664996915"
+      },
+      {
+        "id": "ETH/USD/0x633dd4b3",
+        "price": "136199913542",
+        "timestamp": "1664996531"
+      },
+      {
+        "id": "ETH/USD/0x633dd333",
+        "price": "135304000000",
+        "timestamp": "1664996147"
+      },
+      {
+        "id": "ETH/USD/0x633dc523",
+        "price": "134979000000",
+        "timestamp": "1664992547"
+      },
+      {
+        "id": "ETH/USD/0x633db707",
+        "price": "135390000000",
+        "timestamp": "1664988935"
+      },
+      {
+        "id": "ETH/USD/0x633db5cf",
+        "price": "135066542468",
+        "timestamp": "1664988623"
+      },
+      {
+        "id": "ETH/USD/0x633dae37",
+        "price": "134373975420",
+        "timestamp": "1664986679"
+      },
+      {
+        "id": "ETH/USD/0x633dac3f",
+        "price": "133631049089",
+        "timestamp": "1664986175"
+      },
+      {
+        "id": "ETH/USD/0x633da8f7",
+        "price": "132880000000",
+        "timestamp": "1664985335"
+      },
+      {
+        "id": "ETH/USD/0x633d9aff",
+        "price": "132510000000",
+        "timestamp": "1664981759"
+      },
+      {
+        "id": "ETH/USD/0x633d8cd7",
+        "price": "132199000000",
+        "timestamp": "1664978135"
+      },
+      {
+        "id": "ETH/USD/0x633d898f",
+        "price": "131807990987",
+        "timestamp": "1664977295"
+      },
+      {
+        "id": "ETH/USD/0x633d8287",
+        "price": "132706098904",
+        "timestamp": "1664975495"
+      },
+      {
+        "id": "ETH/USD/0x633d7ebb",
+        "price": "133485657737",
+        "timestamp": "1664974523"
+      },
+      {
+        "id": "ETH/USD/0x633d70ab",
+        "price": "133465613030",
+        "timestamp": "1664970923"
+      },
+      {
+        "id": "ETH/USD/0x633d6cd3",
+        "price": "133780952926",
+        "timestamp": "1664969939"
+      },
+      {
+        "id": "ETH/USD/0x633d62b3",
+        "price": "134620000000",
+        "timestamp": "1664967347"
+      },
+      {
+        "id": "ETH/USD/0x633d548b",
+        "price": "134281000000",
+        "timestamp": "1664963723"
+      },
+      {
+        "id": "ETH/USD/0x633d4687",
+        "price": "134597728687",
+        "timestamp": "1664960135"
+      },
+      {
+        "id": "ETH/USD/0x633d3c8b",
+        "price": "134662000000",
+        "timestamp": "1664957579"
+      },
+      {
+        "id": "ETH/USD/0x633d39a3",
+        "price": "135360568072",
+        "timestamp": "1664956835"
+      },
+      {
+        "id": "ETH/USD/0x633d3877",
+        "price": "135408998940",
+        "timestamp": "1664956535"
+      },
+      {
+        "id": "ETH/USD/0x633d2a5b",
+        "price": "135825020000",
+        "timestamp": "1664952923"
+      },
+      {
+        "id": "ETH/USD/0x633d1c57",
+        "price": "135208784035",
+        "timestamp": "1664949335"
+      },
+      {
+        "id": "ETH/USD/0x633d0e3b",
+        "price": "135074949086",
+        "timestamp": "1664945723"
+      },
+      {
+        "id": "ETH/USD/0x633d0043",
+        "price": "135501000000",
+        "timestamp": "1664942147"
+      },
+      {
+        "id": "ETH/USD/0x633cf233",
+        "price": "135614448073",
+        "timestamp": "1664938547"
+      },
+      {
+        "id": "ETH/USD/0x633ce423",
+        "price": "135579877610",
+        "timestamp": "1664934947"
+      },
+      {
+        "id": "ETH/USD/0x633cd613",
+        "price": "135319000000",
+        "timestamp": "1664931347"
+      },
+      {
+        "id": "ETH/USD/0x633cd493",
+        "price": "135562303619",
+        "timestamp": "1664930963"
+      },
+      {
+        "id": "ETH/USD/0x633cc803",
+        "price": "136263040000",
+        "timestamp": "1664927747"
+      },
+      {
+        "id": "ETH/USD/0x633cc0e3",
+        "price": "136075800000",
+        "timestamp": "1664925923"
+      },
+      {
+        "id": "ETH/USD/0x633cb9e7",
+        "price": "135927918438",
+        "timestamp": "1664924135"
+      },
+      {
+        "id": "ETH/USD/0x633cabd7",
+        "price": "135946450000",
+        "timestamp": "1664920535"
+      },
+      {
+        "id": "ETH/USD/0x633c9e0f",
+        "price": "136365708129",
+        "timestamp": "1664917007"
+      },
+      {
+        "id": "ETH/USD/0x633c9be7",
+        "price": "136432000000",
+        "timestamp": "1664916455"
+      },
+      {
+        "id": "ETH/USD/0x633c8fb7",
+        "price": "135668000000",
+        "timestamp": "1664913335"
+      },
+      {
+        "id": "ETH/USD/0x633c81a7",
+        "price": "135061760000",
+        "timestamp": "1664909735"
+      },
+      {
+        "id": "ETH/USD/0x633c73bb",
+        "price": "134813207236",
+        "timestamp": "1664906171"
+      },
+      {
+        "id": "ETH/USD/0x633c72fb",
+        "price": "134840000000",
+        "timestamp": "1664905979"
+      },
+      {
+        "id": "ETH/USD/0x633c6ac7",
+        "price": "134102132321",
+        "timestamp": "1664903879"
+      },
+      {
+        "id": "ETH/USD/0x633c6587",
+        "price": "134790000000",
+        "timestamp": "1664902535"
+      },
+      {
+        "id": "ETH/USD/0x633c5da7",
+        "price": "134739000000",
+        "timestamp": "1664900519"
+      },
+      {
+        "id": "ETH/USD/0x633c5777",
+        "price": "135441196223",
+        "timestamp": "1664898935"
+      },
+      {
+        "id": "ETH/USD/0x633c497f",
+        "price": "135139321542",
+        "timestamp": "1664895359"
+      },
+      {
+        "id": "ETH/USD/0x633c423b",
+        "price": "135217681214",
+        "timestamp": "1664893499"
+      },
+      {
+        "id": "ETH/USD/0x633c3cd7",
+        "price": "135919000000",
+        "timestamp": "1664892119"
+      },
+      {
+        "id": "ETH/USD/0x633c3b4b",
+        "price": "135143000000",
+        "timestamp": "1664891723"
+      },
+      {
+        "id": "ETH/USD/0x633c2d5f",
+        "price": "135213000000",
+        "timestamp": "1664888159"
+      },
+      {
+        "id": "ETH/USD/0x633c1f4f",
+        "price": "134994000000",
+        "timestamp": "1664884559"
+      },
+      {
+        "id": "ETH/USD/0x633c113f",
+        "price": "135151375551",
+        "timestamp": "1664880959"
+      },
+      {
+        "id": "ETH/USD/0x633c032f",
+        "price": "134931126814",
+        "timestamp": "1664877359"
+      },
+      {
+        "id": "ETH/USD/0x633bf51f",
+        "price": "134792913222",
+        "timestamp": "1664873759"
+      },
+      {
+        "id": "ETH/USD/0x633bedf3",
+        "price": "134998112692",
+        "timestamp": "1664871923"
+      },
+      {
+        "id": "ETH/USD/0x633be9c7",
+        "price": "135817272099",
+        "timestamp": "1664870855"
+      },
+      {
+        "id": "ETH/USD/0x633be82f",
+        "price": "135083000000",
+        "timestamp": "1664870447"
+      },
+      {
+        "id": "ETH/USD/0x633be6f7",
+        "price": "134946097455",
+        "timestamp": "1664870135"
+      },
+      {
+        "id": "ETH/USD/0x633bdd8b",
+        "price": "134523653808",
+        "timestamp": "1664867723"
+      },
+      {
+        "id": "ETH/USD/0x633bd8f3",
+        "price": "133840000000",
+        "timestamp": "1664866547"
+      },
+      {
+        "id": "ETH/USD/0x633bd563",
+        "price": "134162828541",
+        "timestamp": "1664865635"
+      },
+      {
+        "id": "ETH/USD/0x633bd4a3",
+        "price": "133344816562",
+        "timestamp": "1664865443"
+      },
+      {
+        "id": "ETH/USD/0x633bd2ab",
+        "price": "133369235947",
+        "timestamp": "1664864939"
+      },
+      {
+        "id": "ETH/USD/0x633bcad7",
+        "price": "132679000000",
+        "timestamp": "1664862935"
+      },
+      {
+        "id": "ETH/USD/0x633bbcc7",
+        "price": "132940649718",
+        "timestamp": "1664859335"
+      },
+      {
+        "id": "ETH/USD/0x633baf0b",
+        "price": "132958774074",
+        "timestamp": "1664855819"
+      },
+      {
+        "id": "ETH/USD/0x633baef3",
+        "price": "132880000000",
+        "timestamp": "1664855795"
+      },
+      {
+        "id": "ETH/USD/0x633bab87",
+        "price": "132882615354",
+        "timestamp": "1664854919"
+      },
+      {
+        "id": "ETH/USD/0x633ba0bf",
+        "price": "132201825500",
+        "timestamp": "1664852159"
+      },
+      {
+        "id": "ETH/USD/0x633b9297",
+        "price": "132174000000",
+        "timestamp": "1664848535"
+      },
+      {
+        "id": "ETH/USD/0x633b847b",
+        "price": "132123536948",
+        "timestamp": "1664844923"
+      },
+      {
+        "id": "ETH/USD/0x633b7677",
+        "price": "132364042675",
+        "timestamp": "1664841335"
+      },
+      {
+        "id": "ETH/USD/0x633b7347",
+        "price": "132700493386",
+        "timestamp": "1664840519"
+      },
+      {
+        "id": "ETH/USD/0x633b6ed3",
+        "price": "132369000000",
+        "timestamp": "1664839379"
+      },
+      {
+        "id": "ETH/USD/0x633b685b",
+        "price": "131663584754",
+        "timestamp": "1664837723"
+      },
+      {
+        "id": "ETH/USD/0x633b5ac3",
+        "price": "131879000000",
+        "timestamp": "1664834243"
+      },
+      {
+        "id": "ETH/USD/0x633b5a93",
+        "price": "131871060000",
+        "timestamp": "1664834195"
+      },
+      {
+        "id": "ETH/USD/0x633b4c5f",
+        "price": "132121023424",
+        "timestamp": "1664830559"
+      },
+      {
+        "id": "ETH/USD/0x633b4bb7",
+        "price": "132091189092",
+        "timestamp": "1664830391"
+      },
+      {
+        "id": "ETH/USD/0x633b3e43",
+        "price": "131399000000",
+        "timestamp": "1664826947"
+      },
+      {
+        "id": "ETH/USD/0x633b36ff",
+        "price": "131859000000",
+        "timestamp": "1664825087"
+      },
+      {
+        "id": "ETH/USD/0x633b355b",
+        "price": "131176770265",
+        "timestamp": "1664824667"
+      },
+      {
+        "id": "ETH/USD/0x633b3033",
+        "price": "131837000000",
+        "timestamp": "1664823347"
+      },
+      {
+        "id": "ETH/USD/0x633b2ed7",
+        "price": "131708082674",
+        "timestamp": "1664822999"
+      },
+      {
+        "id": "ETH/USD/0x633b2223",
+        "price": "132476000000",
+        "timestamp": "1664819747"
+      },
+      {
+        "id": "ETH/USD/0x633b1713",
+        "price": "132405660378",
+        "timestamp": "1664816915"
+      },
+      {
+        "id": "ETH/USD/0x633b1407",
+        "price": "131745988504",
+        "timestamp": "1664816135"
+      },
+      {
+        "id": "ETH/USD/0x633b05f7",
+        "price": "131993553966",
+        "timestamp": "1664812535"
+      },
+      {
+        "id": "ETH/USD/0x633b02f7",
+        "price": "131987516658",
+        "timestamp": "1664811767"
+      },
+      {
+        "id": "ETH/USD/0x633afb9b",
+        "price": "132668299477",
+        "timestamp": "1664809883"
+      },
+      {
+        "id": "ETH/USD/0x633af82f",
+        "price": "131871236868",
+        "timestamp": "1664809007"
+      },
+      {
+        "id": "ETH/USD/0x633af0df",
+        "price": "131609593618",
+        "timestamp": "1664807135"
+      },
+      {
+        "id": "ETH/USD/0x633aebb7",
+        "price": "130718000000",
+        "timestamp": "1664805815"
+      },
+      {
+        "id": "ETH/USD/0x633aeb1b",
+        "price": "130041786169",
+        "timestamp": "1664805659"
+      },
+      {
+        "id": "ETH/USD/0x633aea13",
+        "price": "130035000000",
+        "timestamp": "1664805395"
+      },
+      {
+        "id": "ETH/USD/0x633ae887",
+        "price": "130600016901",
+        "timestamp": "1664804999"
+      },
+      {
+        "id": "ETH/USD/0x633ae4eb",
+        "price": "129943773512",
+        "timestamp": "1664804075"
+      },
+      {
+        "id": "ETH/USD/0x633ade7f",
+        "price": "130821313194",
+        "timestamp": "1664802431"
+      },
+      {
+        "id": "ETH/USD/0x633adbc7",
+        "price": "130093000000",
+        "timestamp": "1664801735"
+      },
+      {
+        "id": "ETH/USD/0x633adaef",
+        "price": "130271000000",
+        "timestamp": "1664801519"
+      },
+      {
+        "id": "ETH/USD/0x633acdab",
+        "price": "129412000000",
+        "timestamp": "1664798123"
+      },
+      {
+        "id": "ETH/USD/0x633abf9b",
+        "price": "129480000000",
+        "timestamp": "1664794523"
+      },
+      {
+        "id": "ETH/USD/0x633ab29f",
+        "price": "128984000000",
+        "timestamp": "1664791199"
+      },
+      {
+        "id": "ETH/USD/0x633ab1d3",
+        "price": "128938362986",
+        "timestamp": "1664790995"
+      },
+      {
+        "id": "ETH/USD/0x633aa387",
+        "price": "129194884089",
+        "timestamp": "1664787335"
+      },
+      {
+        "id": "ETH/USD/0x633a96df",
+        "price": "129158733925",
+        "timestamp": "1664784095"
+      },
+      {
+        "id": "ETH/USD/0x633a9577",
+        "price": "129125000000",
+        "timestamp": "1664783735"
+      },
+      {
+        "id": "ETH/USD/0x633a877f",
+        "price": "129175243373",
+        "timestamp": "1664780159"
+      },
+      {
+        "id": "ETH/USD/0x633a8467",
+        "price": "129053806890",
+        "timestamp": "1664779367"
+      },
+      {
+        "id": "ETH/USD/0x633a7963",
+        "price": "129721953755",
+        "timestamp": "1664776547"
+      },
+      {
+        "id": "ETH/USD/0x633a78af",
+        "price": "129547330000",
+        "timestamp": "1664776367"
+      },
+      {
+        "id": "ETH/USD/0x633a6b47",
+        "price": "128899341451",
+        "timestamp": "1664772935"
+      },
+      {
+        "id": "ETH/USD/0x633a5d37",
+        "price": "129358647563",
+        "timestamp": "1664769335"
+      },
+      {
+        "id": "ETH/USD/0x633a4f27",
+        "price": "129345456380",
+        "timestamp": "1664765735"
+      },
+      {
+        "id": "ETH/USD/0x633a47a7",
+        "price": "129197486135",
+        "timestamp": "1664763815"
+      },
+      {
+        "id": "ETH/USD/0x633a4117",
+        "price": "129849922317",
+        "timestamp": "1664762135"
+      },
+      {
+        "id": "ETH/USD/0x633a3b77",
+        "price": "129465057732",
+        "timestamp": "1664760695"
+      },
+      {
+        "id": "ETH/USD/0x633a3703",
+        "price": "128815500000",
+        "timestamp": "1664759555"
+      },
+      {
+        "id": "ETH/USD/0x633a3307",
+        "price": "128131000000",
+        "timestamp": "1664758535"
+      },
+      {
+        "id": "ETH/USD/0x633a2b6f",
+        "price": "127907671293",
+        "timestamp": "1664756591"
+      },
+      {
+        "id": "ETH/USD/0x633a287b",
+        "price": "127213143807",
+        "timestamp": "1664755835"
+      },
+      {
+        "id": "ETH/USD/0x633a27c7",
+        "price": "126567644076",
+        "timestamp": "1664755655"
+      },
+      {
+        "id": "ETH/USD/0x633a25b7",
+        "price": "127504751337",
+        "timestamp": "1664755127"
+      },
+      {
+        "id": "ETH/USD/0x633a250f",
+        "price": "127546000000",
+        "timestamp": "1664754959"
+      },
+      {
+        "id": "ETH/USD/0x633a227b",
+        "price": "127874270000",
+        "timestamp": "1664754299"
+      },
+      {
+        "id": "ETH/USD/0x633a200b",
+        "price": "127230000000",
+        "timestamp": "1664753675"
+      },
+      {
+        "id": "ETH/USD/0x633a1987",
+        "price": "127873570878",
+        "timestamp": "1664752007"
+      },
+      {
+        "id": "ETH/USD/0x633a1783",
+        "price": "128772518829",
+        "timestamp": "1664751491"
+      },
+      {
+        "id": "ETH/USD/0x633a170b",
+        "price": "129479175338",
+        "timestamp": "1664751371"
+      },
+      {
+        "id": "ETH/USD/0x633a1087",
+        "price": "129838516908",
+        "timestamp": "1664749703"
+      },
+      {
+        "id": "ETH/USD/0x633a0f43",
+        "price": "130512600793",
+        "timestamp": "1664749379"
+      },
+      {
+        "id": "ETH/USD/0x633a08fb",
+        "price": "129795955298",
+        "timestamp": "1664747771"
+      },
+      {
+        "id": "ETH/USD/0x6339fec3",
+        "price": "129779014781",
+        "timestamp": "1664745155"
+      },
+      {
+        "id": "ETH/USD/0x6339fabb",
+        "price": "130440000000",
+        "timestamp": "1664744123"
+      },
+      {
+        "id": "ETH/USD/0x6339ecff",
+        "price": "130628000000",
+        "timestamp": "1664740607"
+      },
+      {
+        "id": "ETH/USD/0x6339ecf3",
+        "price": "130616000000",
+        "timestamp": "1664740595"
+      },
+      {
+        "id": "ETH/USD/0x6339e1e3",
+        "price": "130577000000",
+        "timestamp": "1664737763"
+      },
+      {
+        "id": "ETH/USD/0x6339deb3",
+        "price": "129441713042",
+        "timestamp": "1664736947"
+      },
+      {
+        "id": "ETH/USD/0x6339d0a3",
+        "price": "129804000000",
+        "timestamp": "1664733347"
+      },
+      {
+        "id": "ETH/USD/0x6339c293",
+        "price": "129823000000",
+        "timestamp": "1664729747"
+      },
+      {
+        "id": "ETH/USD/0x6339bad7",
+        "price": "129980000000",
+        "timestamp": "1664727767"
+      },
+      {
+        "id": "ETH/USD/0x6339b483",
+        "price": "129295968895",
+        "timestamp": "1664726147"
+      },
+      {
+        "id": "ETH/USD/0x6339a85f",
+        "price": "128947400337",
+        "timestamp": "1664723039"
+      },
+      {
+        "id": "ETH/USD/0x6339a6a3",
+        "price": "129050000000",
+        "timestamp": "1664722595"
+      },
+      {
+        "id": "ETH/USD/0x6339a5cb",
+        "price": "128883677454",
+        "timestamp": "1664722379"
+      },
+      {
+        "id": "ETH/USD/0x6339984b",
+        "price": "129779330000",
+        "timestamp": "1664718923"
+      },
+      {
+        "id": "ETH/USD/0x63398a9b",
+        "price": "129544000000",
+        "timestamp": "1664715419"
+      },
+      {
+        "id": "ETH/USD/0x63398a53",
+        "price": "129549910821",
+        "timestamp": "1664715347"
+      },
+      {
+        "id": "ETH/USD/0x63397c43",
+        "price": "129741000000",
+        "timestamp": "1664711747"
+      },
+      {
+        "id": "ETH/USD/0x63397b3b",
+        "price": "129650739949",
+        "timestamp": "1664711483"
+      },
+      {
+        "id": "ETH/USD/0x6339764f",
+        "price": "130318101620",
+        "timestamp": "1664710223"
+      },
+      {
+        "id": "ETH/USD/0x633973d3",
+        "price": "129583866759",
+        "timestamp": "1664709587"
+      },
+      {
+        "id": "ETH/USD/0x63396e3f",
+        "price": "128915649920",
+        "timestamp": "1664708159"
+      },
+      {
+        "id": "ETH/USD/0x6339650f",
+        "price": "129327000000",
+        "timestamp": "1664705807"
+      },
+      {
+        "id": "ETH/USD/0x633964d3",
+        "price": "129985538837",
+        "timestamp": "1664705747"
+      },
+      {
+        "id": "ETH/USD/0x63396023",
+        "price": "130695582167",
+        "timestamp": "1664704547"
+      },
+      {
+        "id": "ETH/USD/0x63395213",
+        "price": "130893293539",
+        "timestamp": "1664700947"
+      },
+      {
+        "id": "ETH/USD/0x6339452f",
+        "price": "131094000000",
+        "timestamp": "1664697647"
+      },
+      {
+        "id": "ETH/USD/0x633943f7",
+        "price": "131072000000",
+        "timestamp": "1664697335"
+      },
+      {
+        "id": "ETH/USD/0x633935f3",
+        "price": "131512000000",
+        "timestamp": "1664693747"
+      },
+      {
+        "id": "ETH/USD/0x633927cb",
+        "price": "131182000000",
+        "timestamp": "1664690123"
+      },
+      {
+        "id": "ETH/USD/0x633919df",
+        "price": "131222000000",
+        "timestamp": "1664686559"
+      },
+      {
+        "id": "ETH/USD/0x63390eb7",
+        "price": "130956357367",
+        "timestamp": "1664683703"
+      },
+      {
+        "id": "ETH/USD/0x63390bff",
+        "price": "130938455000",
+        "timestamp": "1664683007"
+      },
+      {
+        "id": "ETH/USD/0x6338fdb3",
+        "price": "131090000000",
+        "timestamp": "1664679347"
+      },
+      {
+        "id": "ETH/USD/0x6338efa3",
+        "price": "130727000000",
+        "timestamp": "1664675747"
+      },
+      {
+        "id": "ETH/USD/0x6338e193",
+        "price": "131020000000",
+        "timestamp": "1664672147"
+      },
+      {
+        "id": "ETH/USD/0x6338d827",
+        "price": "131166330000",
+        "timestamp": "1664669735"
+      },
+      {
+        "id": "ETH/USD/0x6338d383",
+        "price": "131092610000",
+        "timestamp": "1664668547"
+      },
+      {
+        "id": "ETH/USD/0x6338c567",
+        "price": "131278569829",
+        "timestamp": "1664664935"
+      },
+      {
+        "id": "ETH/USD/0x6338b757",
+        "price": "131353000000",
+        "timestamp": "1664661335"
+      },
+      {
+        "id": "ETH/USD/0x6338a99b",
+        "price": "130919636939",
+        "timestamp": "1664657819"
+      },
+      {
+        "id": "ETH/USD/0x6338a983",
+        "price": "130944884493",
+        "timestamp": "1664657795"
+      },
+      {
+        "id": "ETH/USD/0x63389e4f",
+        "price": "130427500000",
+        "timestamp": "1664654927"
+      },
+      {
+        "id": "ETH/USD/0x63389d2f",
+        "price": "131274251625",
+        "timestamp": "1664654639"
+      },
+      {
+        "id": "ETH/USD/0x63389b73",
+        "price": "131314488769",
+        "timestamp": "1664654195"
+      },
+      {
+        "id": "ETH/USD/0x6338982b",
+        "price": "130795096228",
+        "timestamp": "1664653355"
+      },
+      {
+        "id": "ETH/USD/0x63388d27",
+        "price": "131460352581",
+        "timestamp": "1664650535"
+      },
+      {
+        "id": "ETH/USD/0x6338814b",
+        "price": "131328646920",
+        "timestamp": "1664647499"
+      },
+      {
+        "id": "ETH/USD/0x63387f47",
+        "price": "131326000000",
+        "timestamp": "1664646983"
+      },
+      {
+        "id": "ETH/USD/0x633870fb",
+        "price": "130881558050",
+        "timestamp": "1664643323"
+      },
+      {
+        "id": "ETH/USD/0x63386e2b",
+        "price": "130834965066",
+        "timestamp": "1664642603"
+      },
+      {
+        "id": "ETH/USD/0x6338690f",
+        "price": "131510022400",
+        "timestamp": "1664641295"
+      },
+      {
+        "id": "ETH/USD/0x63386303",
+        "price": "132314116474",
+        "timestamp": "1664639747"
+      },
+      {
+        "id": "ETH/USD/0x633854f3",
+        "price": "132374000000",
+        "timestamp": "1664636147"
+      },
+      {
+        "id": "ETH/USD/0x63384833",
+        "price": "132577955449",
+        "timestamp": "1664632883"
+      },
+      {
+        "id": "ETH/USD/0x6338471f",
+        "price": "132578000000",
+        "timestamp": "1664632607"
+      },
+      {
+        "id": "ETH/USD/0x63383eeb",
+        "price": "132899379921",
+        "timestamp": "1664630507"
+      },
+      {
+        "id": "ETH/USD/0x633838d3",
+        "price": "132225000000",
+        "timestamp": "1664628947"
+      },
+      {
+        "id": "ETH/USD/0x63382ab7",
+        "price": "132578000000",
+        "timestamp": "1664625335"
+      },
+      {
+        "id": "ETH/USD/0x633824c3",
+        "price": "132185765274",
+        "timestamp": "1664623811"
+      },
+      {
+        "id": "ETH/USD/0x63381ca7",
+        "price": "133007129340",
+        "timestamp": "1664621735"
+      },
+      {
+        "id": "ETH/USD/0x63380ea3",
+        "price": "133219907205",
+        "timestamp": "1664618147"
+      },
+      {
+        "id": "ETH/USD/0x63380087",
+        "price": "133186250000",
+        "timestamp": "1664614535"
+      },
+      {
+        "id": "ETH/USD/0x6337f3a3",
+        "price": "132917000000",
+        "timestamp": "1664611235"
+      },
+      {
+        "id": "ETH/USD/0x6337f277",
+        "price": "132997595530",
+        "timestamp": "1664610935"
+      },
+      {
+        "id": "ETH/USD/0x6337e467",
+        "price": "132723249726",
+        "timestamp": "1664607335"
+      },
+      {
+        "id": "ETH/USD/0x6337d657",
+        "price": "132777572870",
+        "timestamp": "1664603735"
+      },
+      {
+        "id": "ETH/USD/0x6337c847",
+        "price": "132822205308",
+        "timestamp": "1664600135"
+      },
+      {
+        "id": "ETH/USD/0x6337ba2b",
+        "price": "132895294450",
+        "timestamp": "1664596523"
+      },
+      {
+        "id": "ETH/USD/0x6337ac3f",
+        "price": "133165262868",
+        "timestamp": "1664592959"
+      },
+      {
+        "id": "ETH/USD/0x63379e23",
+        "price": "133168127249",
+        "timestamp": "1664589347"
+      },
+      {
+        "id": "ETH/USD/0x63378ffb",
+        "price": "132707580821",
+        "timestamp": "1664585723"
+      },
+      {
+        "id": "ETH/USD/0x63378a7f",
+        "price": "133135335928",
+        "timestamp": "1664584319"
+      },
+      {
+        "id": "ETH/USD/0x63378203",
+        "price": "132815260000",
+        "timestamp": "1664582147"
+      },
+      {
+        "id": "ETH/USD/0x6337740b",
+        "price": "132516944241",
+        "timestamp": "1664578571"
+      },
+      {
+        "id": "ETH/USD/0x63376db7",
+        "price": "132641400000",
+        "timestamp": "1664576951"
+      },
+      {
+        "id": "ETH/USD/0x63376907",
+        "price": "131916000000",
+        "timestamp": "1664575751"
+      },
+      {
+        "id": "ETH/USD/0x633765d7",
+        "price": "132609207558",
+        "timestamp": "1664574935"
+      },
+      {
+        "id": "ETH/USD/0x633757c7",
+        "price": "133068273882",
+        "timestamp": "1664571335"
+      },
+      {
+        "id": "ETH/USD/0x63375413",
+        "price": "133193000000",
+        "timestamp": "1664570387"
+      },
+      {
+        "id": "ETH/USD/0x633749b7",
+        "price": "133968070000",
+        "timestamp": "1664567735"
+      },
+      {
+        "id": "ETH/USD/0x6337490f",
+        "price": "133648000000",
+        "timestamp": "1664567567"
+      },
+      {
+        "id": "ETH/USD/0x63373ba7",
+        "price": "134943000000",
+        "timestamp": "1664564135"
+      },
+      {
+        "id": "ETH/USD/0x633739c7",
+        "price": "134612000000",
+        "timestamp": "1664563655"
+      },
+      {
+        "id": "ETH/USD/0x633732bf",
+        "price": "135369633173",
+        "timestamp": "1664561855"
+      },
+      {
+        "id": "ETH/USD/0x63372d97",
+        "price": "134665420252",
+        "timestamp": "1664560535"
+      },
+      {
+        "id": "ETH/USD/0x633729d7",
+        "price": "134614960398",
+        "timestamp": "1664559575"
+      },
+      {
+        "id": "ETH/USD/0x63372233",
+        "price": "135420449069",
+        "timestamp": "1664557619"
+      },
+      {
+        "id": "ETH/USD/0x63371fc3",
+        "price": "135337000000",
+        "timestamp": "1664556995"
+      },
+      {
+        "id": "ETH/USD/0x63371b4f",
+        "price": "135954012413",
+        "timestamp": "1664555855"
+      },
+      {
+        "id": "ETH/USD/0x6337191b",
+        "price": "135189147184",
+        "timestamp": "1664555291"
+      },
+      {
+        "id": "ETH/USD/0x633713ab",
+        "price": "134284785000",
+        "timestamp": "1664553899"
+      },
+      {
+        "id": "ETH/USD/0x63371177",
+        "price": "134980000000",
+        "timestamp": "1664553335"
+      },
+      {
+        "id": "ETH/USD/0x63370d03",
+        "price": "135758777165",
+        "timestamp": "1664552195"
+      },
+      {
+        "id": "ETH/USD/0x63370937",
+        "price": "136502383927",
+        "timestamp": "1664551223"
+      },
+      {
+        "id": "ETH/USD/0x63370853",
+        "price": "137204612953",
+        "timestamp": "1664550995"
+      },
+      {
+        "id": "ETH/USD/0x633705fb",
+        "price": "136516000000",
+        "timestamp": "1664550395"
+      },
+      {
+        "id": "ETH/USD/0x633703bb",
+        "price": "135796947133",
+        "timestamp": "1664549819"
+      },
+      {
+        "id": "ETH/USD/0x633703a3",
+        "price": "135649136156",
+        "timestamp": "1664549795"
+      },
+      {
+        "id": "ETH/USD/0x633701e7",
+        "price": "135738000000",
+        "timestamp": "1664549351"
+      },
+      {
+        "id": "ETH/USD/0x6336ff0b",
+        "price": "134584000000",
+        "timestamp": "1664548619"
+      },
+      {
+        "id": "ETH/USD/0x6336f803",
+        "price": "133890748282",
+        "timestamp": "1664546819"
+      },
+      {
+        "id": "ETH/USD/0x6336f54b",
+        "price": "133154000000",
+        "timestamp": "1664546123"
+      },
+      {
+        "id": "ETH/USD/0x6336f27b",
+        "price": "132775000000",
+        "timestamp": "1664545403"
+      },
+      {
+        "id": "ETH/USD/0x6336f14f",
+        "price": "131844985531",
+        "timestamp": "1664545103"
+      },
+      {
+        "id": "ETH/USD/0x6336e747",
+        "price": "132520891039",
+        "timestamp": "1664542535"
+      },
+      {
+        "id": "ETH/USD/0x6336e46b",
+        "price": "132950000000",
+        "timestamp": "1664541803"
+      },
+      {
+        "id": "ETH/USD/0x6336e3db",
+        "price": "132223170102",
+        "timestamp": "1664541659"
+      },
+      {
+        "id": "ETH/USD/0x6336e1fb",
+        "price": "132925000000",
+        "timestamp": "1664541179"
+      },
+      {
+        "id": "ETH/USD/0x6336e19b",
+        "price": "132191225601",
+        "timestamp": "1664541083"
+      },
+      {
+        "id": "ETH/USD/0x6336e183",
+        "price": "132926809847",
+        "timestamp": "1664541059"
+      },
+      {
+        "id": "ETH/USD/0x6336e07b",
+        "price": "133859011638",
+        "timestamp": "1664540795"
+      },
+      {
+        "id": "ETH/USD/0x6336d943",
+        "price": "133082919332",
+        "timestamp": "1664538947"
+      },
+      {
+        "id": "ETH/USD/0x6336cb3f",
+        "price": "133594240301",
+        "timestamp": "1664535359"
+      },
+      {
+        "id": "ETH/USD/0x6336caa3",
+        "price": "133400000000",
+        "timestamp": "1664535203"
+      },
+      {
+        "id": "ETH/USD/0x6336bd23",
+        "price": "134084000000",
+        "timestamp": "1664531747"
+      },
+      {
+        "id": "ETH/USD/0x6336af13",
+        "price": "134588000000",
+        "timestamp": "1664528147"
+      },
+      {
+        "id": "ETH/USD/0x6336a26b",
+        "price": "134007140247",
+        "timestamp": "1664524907"
+      },
+      {
+        "id": "ETH/USD/0x6336a127",
+        "price": "134290000000",
+        "timestamp": "1664524583"
+      },
+      {
+        "id": "ETH/USD/0x6336971f",
+        "price": "134045000000",
+        "timestamp": "1664522015"
+      },
+      {
+        "id": "ETH/USD/0x633692e7",
+        "price": "133328388990",
+        "timestamp": "1664520935"
+      },
+      {
+        "id": "ETH/USD/0x633684d7",
+        "price": "133231034256",
+        "timestamp": "1664517335"
+      },
+      {
+        "id": "ETH/USD/0x633676c7",
+        "price": "132884153232",
+        "timestamp": "1664513735"
+      },
+      {
+        "id": "ETH/USD/0x633668b7",
+        "price": "132517000000",
+        "timestamp": "1664510135"
+      },
+      {
+        "id": "ETH/USD/0x63365aa7",
+        "price": "132834468172",
+        "timestamp": "1664506535"
+      },
+      {
+        "id": "ETH/USD/0x63365183",
+        "price": "132991807616",
+        "timestamp": "1664504195"
+      },
+      {
+        "id": "ETH/USD/0x63364ceb",
+        "price": "133670731946",
+        "timestamp": "1664503019"
+      },
+      {
+        "id": "ETH/USD/0x63364cd3",
+        "price": "133697692390",
+        "timestamp": "1664502995"
+      },
+      {
+        "id": "ETH/USD/0x63364af3",
+        "price": "133593651321",
+        "timestamp": "1664502515"
+      },
+      {
+        "id": "ETH/USD/0x633646bb",
+        "price": "132912821622",
+        "timestamp": "1664501435"
+      },
+      {
+        "id": "ETH/USD/0x63363e87",
+        "price": "133597805913",
+        "timestamp": "1664499335"
+      },
+      {
+        "id": "ETH/USD/0x63363ce3",
+        "price": "133456217634",
+        "timestamp": "1664498915"
+      },
+      {
+        "id": "ETH/USD/0x63363aa3",
+        "price": "133176750830",
+        "timestamp": "1664498339"
+      },
+      {
+        "id": "ETH/USD/0x63363a4f",
+        "price": "134164670000",
+        "timestamp": "1664498255"
+      },
+      {
+        "id": "ETH/USD/0x63363977",
+        "price": "135192000000",
+        "timestamp": "1664498039"
+      },
+      {
+        "id": "ETH/USD/0x63363923",
+        "price": "134348125899",
+        "timestamp": "1664497955"
+      },
+      {
+        "id": "ETH/USD/0x6336308f",
+        "price": "133643663268",
+        "timestamp": "1664495759"
+      },
+      {
+        "id": "ETH/USD/0x63362d5f",
+        "price": "133553434136",
+        "timestamp": "1664494943"
+      },
+      {
+        "id": "ETH/USD/0x63362273",
+        "price": "132886770662",
+        "timestamp": "1664492147"
+      },
+      {
+        "id": "ETH/USD/0x63361d6f",
+        "price": "132785948921",
+        "timestamp": "1664490863"
+      },
+      {
+        "id": "ETH/USD/0x6336146f",
+        "price": "133459000000",
+        "timestamp": "1664488559"
+      },
+      {
+        "id": "ETH/USD/0x63360653",
+        "price": "133704798740",
+        "timestamp": "1664484947"
+      },
+      {
+        "id": "ETH/USD/0x6335f84f",
+        "price": "133293000000",
+        "timestamp": "1664481359"
+      },
+      {
+        "id": "ETH/USD/0x6335ed03",
+        "price": "133411980742",
+        "timestamp": "1664478467"
+      },
+      {
+        "id": "ETH/USD/0x6335ea33",
+        "price": "132744711558",
+        "timestamp": "1664477747"
+      },
+      {
+        "id": "ETH/USD/0x6335e907",
+        "price": "132931000000",
+        "timestamp": "1664477447"
+      },
+      {
+        "id": "ETH/USD/0x6335e4c3",
+        "price": "133611813487",
+        "timestamp": "1664476355"
+      },
+      {
+        "id": "ETH/USD/0x6335e3bb",
+        "price": "132862706984",
+        "timestamp": "1664476091"
+      },
+      {
+        "id": "ETH/USD/0x6335e187",
+        "price": "132074095326",
+        "timestamp": "1664475527"
+      },
+      {
+        "id": "ETH/USD/0x6335dc6b",
+        "price": "132755676749",
+        "timestamp": "1664474219"
+      },
+      {
+        "id": "ETH/USD/0x6335db1b",
+        "price": "133123515308",
+        "timestamp": "1664473883"
+      },
+      {
+        "id": "ETH/USD/0x6335cdfb",
+        "price": "133857000000",
+        "timestamp": "1664470523"
+      },
+      {
+        "id": "ETH/USD/0x6335cc1b",
+        "price": "134725186307",
+        "timestamp": "1664470043"
+      },
+      {
+        "id": "ETH/USD/0x6335cab3",
+        "price": "133880000000",
+        "timestamp": "1664469683"
+      },
+      {
+        "id": "ETH/USD/0x6335ca23",
+        "price": "133090000000",
+        "timestamp": "1664469539"
+      },
+      {
+        "id": "ETH/USD/0x6335c8af",
+        "price": "132330580000",
+        "timestamp": "1664469167"
+      },
+      {
+        "id": "ETH/USD/0x6335c7b3",
+        "price": "131537058065",
+        "timestamp": "1664468915"
+      },
+      {
+        "id": "ETH/USD/0x6335c54f",
+        "price": "132216000000",
+        "timestamp": "1664468303"
+      },
+      {
+        "id": "ETH/USD/0x6335c003",
+        "price": "132945354706",
+        "timestamp": "1664466947"
+      },
+      {
+        "id": "ETH/USD/0x6335b4e7",
+        "price": "132737397326",
+        "timestamp": "1664464103"
+      },
+      {
+        "id": "ETH/USD/0x6335b1e7",
+        "price": "132017399520",
+        "timestamp": "1664463335"
+      },
+      {
+        "id": "ETH/USD/0x6335b11b",
+        "price": "131703336717",
+        "timestamp": "1664463131"
+      },
+      {
+        "id": "ETH/USD/0x6335af17",
+        "price": "130984389878",
+        "timestamp": "1664462615"
+      },
+      {
+        "id": "ETH/USD/0x6335ae93",
+        "price": "130279000000",
+        "timestamp": "1664462483"
+      },
+      {
+        "id": "ETH/USD/0x6335a593",
+        "price": "129550000000",
+        "timestamp": "1664460179"
+      },
+      {
+        "id": "ETH/USD/0x6335a3d7",
+        "price": "130236365985",
+        "timestamp": "1664459735"
+      },
+      {
+        "id": "ETH/USD/0x6335a197",
+        "price": "130135000000",
+        "timestamp": "1664459159"
+      },
+      {
+        "id": "ETH/USD/0x6335a09b",
+        "price": "131091463698",
+        "timestamp": "1664458907"
+      },
+      {
+        "id": "ETH/USD/0x6335a02f",
+        "price": "131892814857",
+        "timestamp": "1664458799"
+      },
+      {
+        "id": "ETH/USD/0x633598bb",
+        "price": "132562050000",
+        "timestamp": "1664456891"
+      },
+      {
+        "id": "ETH/USD/0x633595d3",
+        "price": "131872632921",
+        "timestamp": "1664456147"
+      },
+      {
+        "id": "ETH/USD/0x63359117",
+        "price": "132105000000",
+        "timestamp": "1664454935"
+      },
+      {
+        "id": "ETH/USD/0x63358b5f",
+        "price": "133255000000",
+        "timestamp": "1664453471"
+      },
+      {
+        "id": "ETH/USD/0x633587b7",
+        "price": "133932353275",
+        "timestamp": "1664452535"
+      },
+      {
+        "id": "ETH/USD/0x63357ee7",
+        "price": "134138000000",
+        "timestamp": "1664450279"
+      },
+      {
+        "id": "ETH/USD/0x63357b9f",
+        "price": "133343859824",
+        "timestamp": "1664449439"
+      },
+      {
+        "id": "ETH/USD/0x633579a7",
+        "price": "134152259801",
+        "timestamp": "1664448935"
+      },
+      {
+        "id": "ETH/USD/0x63356ba3",
+        "price": "133620805846",
+        "timestamp": "1664445347"
+      },
+      {
+        "id": "ETH/USD/0x633568eb",
+        "price": "133871043778",
+        "timestamp": "1664444651"
+      },
+      {
+        "id": "ETH/USD/0x63356543",
+        "price": "133177000000",
+        "timestamp": "1664443715"
+      },
+      {
+        "id": "ETH/USD/0x63355d87",
+        "price": "132402507585",
+        "timestamp": "1664441735"
+      },
+      {
+        "id": "ETH/USD/0x633550af",
+        "price": "132073686231",
+        "timestamp": "1664438447"
+      },
+      {
+        "id": "ETH/USD/0x63354fcb",
+        "price": "131910000000",
+        "timestamp": "1664438219"
+      },
+      {
+        "id": "ETH/USD/0x63354fb3",
+        "price": "131850123543",
+        "timestamp": "1664438195"
+      },
+      {
+        "id": "ETH/USD/0x633543d7",
+        "price": "132018522080",
+        "timestamp": "1664435159"
+      },
+      {
+        "id": "ETH/USD/0x6335417f",
+        "price": "132868850064",
+        "timestamp": "1664434559"
+      },
+      {
+        "id": "ETH/USD/0x63353e43",
+        "price": "133100000000",
+        "timestamp": "1664433731"
+      },
+      {
+        "id": "ETH/USD/0x633537e3",
+        "price": "132332000000",
+        "timestamp": "1664432099"
+      },
+      {
+        "id": "ETH/USD/0x63353363",
+        "price": "133136140000",
+        "timestamp": "1664430947"
+      },
+      {
+        "id": "ETH/USD/0x6335306f",
+        "price": "133248780094",
+        "timestamp": "1664430191"
+      },
+      {
+        "id": "ETH/USD/0x63352553",
+        "price": "134151569383",
+        "timestamp": "1664427347"
+      },
+      {
+        "id": "ETH/USD/0x63351743",
+        "price": "134225000000",
+        "timestamp": "1664423747"
+      },
+      {
+        "id": "ETH/USD/0x63350933",
+        "price": "133884860804",
+        "timestamp": "1664420147"
+      },
+      {
+        "id": "ETH/USD/0x6334ff13",
+        "price": "133963263090",
+        "timestamp": "1664417555"
+      },
+      {
+        "id": "ETH/USD/0x6334fdab",
+        "price": "133167860000",
+        "timestamp": "1664417195"
+      },
+      {
+        "id": "ETH/USD/0x6334fd3f",
+        "price": "133968599193",
+        "timestamp": "1664417087"
+      },
+      {
+        "id": "ETH/USD/0x6334fb23",
+        "price": "134652000000",
+        "timestamp": "1664416547"
+      },
+      {
+        "id": "ETH/USD/0x6334f5a7",
+        "price": "134830456414",
+        "timestamp": "1664415143"
+      },
+      {
+        "id": "ETH/USD/0x6334f1f3",
+        "price": "134065470709",
+        "timestamp": "1664414195"
+      },
+      {
+        "id": "ETH/USD/0x6334ef53",
+        "price": "133425000000",
+        "timestamp": "1664413523"
+      },
+      {
+        "id": "ETH/USD/0x6334ed07",
+        "price": "133323000000",
+        "timestamp": "1664412935"
+      },
+      {
+        "id": "ETH/USD/0x6334eb9f",
+        "price": "132933063145",
+        "timestamp": "1664412575"
+      },
+      {
+        "id": "ETH/USD/0x6334e5ab",
+        "price": "133634407114",
+        "timestamp": "1664411051"
+      },
+      {
+        "id": "ETH/USD/0x6334e173",
+        "price": "134383000000",
+        "timestamp": "1664409971"
+      },
+      {
+        "id": "ETH/USD/0x6334df03",
+        "price": "133656948928",
+        "timestamp": "1664409347"
+      },
+      {
+        "id": "ETH/USD/0x6334d10b",
+        "price": "133720929844",
+        "timestamp": "1664405771"
+      },
+      {
+        "id": "ETH/USD/0x6334cee3",
+        "price": "133841000000",
+        "timestamp": "1664405219"
+      },
+      {
+        "id": "ETH/USD/0x6334c2d7",
+        "price": "134543709684",
+        "timestamp": "1664402135"
+      },
+      {
+        "id": "ETH/USD/0x6334c097",
+        "price": "134244000000",
+        "timestamp": "1664401559"
+      },
+      {
+        "id": "ETH/USD/0x6334b4f7",
+        "price": "135156450000",
+        "timestamp": "1664398583"
+      },
+      {
+        "id": "ETH/USD/0x6334b39b",
+        "price": "135363000000",
+        "timestamp": "1664398235"
+      },
+      {
+        "id": "ETH/USD/0x6334b2ff",
+        "price": "134280000000",
+        "timestamp": "1664398079"
+      },
+      {
+        "id": "ETH/USD/0x6334b24b",
+        "price": "134968300000",
+        "timestamp": "1664397899"
+      },
+      {
+        "id": "ETH/USD/0x6334af7b",
+        "price": "134116000000",
+        "timestamp": "1664397179"
+      },
+      {
+        "id": "ETH/USD/0x6334ab13",
+        "price": "134826164124",
+        "timestamp": "1664396051"
+      },
+      {
+        "id": "ETH/USD/0x6334a6ab",
+        "price": "133710720000",
+        "timestamp": "1664394923"
+      },
+      {
+        "id": "ETH/USD/0x6334a567",
+        "price": "134240000000",
+        "timestamp": "1664394599"
+      },
+      {
+        "id": "ETH/USD/0x6334a3e7",
+        "price": "133142367532",
+        "timestamp": "1664394215"
+      },
+      {
+        "id": "ETH/USD/0x63349e6b",
+        "price": "132458000000",
+        "timestamp": "1664392811"
+      },
+      {
+        "id": "ETH/USD/0x6334989b",
+        "price": "133233090430",
+        "timestamp": "1664391323"
+      },
+      {
+        "id": "ETH/USD/0x633495b3",
+        "price": "132792299564",
+        "timestamp": "1664390579"
+      },
+      {
+        "id": "ETH/USD/0x633494db",
+        "price": "133526995159",
+        "timestamp": "1664390363"
+      },
+      {
+        "id": "ETH/USD/0x633493af",
+        "price": "132843000000",
+        "timestamp": "1664390063"
+      },
+      {
+        "id": "ETH/USD/0x63348a97",
+        "price": "132135151361",
+        "timestamp": "1664387735"
+      },
+      {
+        "id": "ETH/USD/0x633488db",
+        "price": "131370000000",
+        "timestamp": "1664387291"
+      },
+      {
+        "id": "ETH/USD/0x63348857",
+        "price": "132077420000",
+        "timestamp": "1664387159"
+      },
+      {
+        "id": "ETH/USD/0x63347c7b",
+        "price": "132918450457",
+        "timestamp": "1664384123"
+      },
+      {
+        "id": "ETH/USD/0x63347213",
+        "price": "133137216157",
+        "timestamp": "1664381459"
+      },
+      {
+        "id": "ETH/USD/0x6334707b",
+        "price": "133837624135",
+        "timestamp": "1664381051"
+      },
+      {
+        "id": "ETH/USD/0x63346eb3",
+        "price": "133137835008",
+        "timestamp": "1664380595"
+      },
+      {
+        "id": "ETH/USD/0x633468ef",
+        "price": "132523000000",
+        "timestamp": "1664379119"
+      },
+      {
+        "id": "ETH/USD/0x633462b3",
+        "price": "133204130000",
+        "timestamp": "1664377523"
+      },
+      {
+        "id": "ETH/USD/0x63346073",
+        "price": "132503000000",
+        "timestamp": "1664376947"
+      },
+      {
+        "id": "ETH/USD/0x63345c6b",
+        "price": "132688461722",
+        "timestamp": "1664375915"
+      },
+      {
+        "id": "ETH/USD/0x63345a37",
+        "price": "131910000000",
+        "timestamp": "1664375351"
+      },
+      {
+        "id": "ETH/USD/0x63345263",
+        "price": "131127280000",
+        "timestamp": "1664373347"
+      },
+      {
+        "id": "ETH/USD/0x63344fdb",
+        "price": "131258670632",
+        "timestamp": "1664372699"
+      },
+      {
+        "id": "ETH/USD/0x63344d77",
+        "price": "130450305064",
+        "timestamp": "1664372087"
+      },
+      {
+        "id": "ETH/USD/0x63344b73",
+        "price": "131185000000",
+        "timestamp": "1664371571"
+      },
+      {
+        "id": "ETH/USD/0x63344453",
+        "price": "130512058036",
+        "timestamp": "1664369747"
+      },
+      {
+        "id": "ETH/USD/0x633441bf",
+        "price": "130934000000",
+        "timestamp": "1664369087"
+      },
+      {
+        "id": "ETH/USD/0x63343c5b",
+        "price": "130138673227",
+        "timestamp": "1664367707"
+      },
+      {
+        "id": "ETH/USD/0x63343643",
+        "price": "129439000000",
+        "timestamp": "1664366147"
+      },
+      {
+        "id": "ETH/USD/0x63342ffb",
+        "price": "129564000000",
+        "timestamp": "1664364539"
+      },
+      {
+        "id": "ETH/USD/0x63342cb3",
+        "price": "128860000000",
+        "timestamp": "1664363699"
+      },
+      {
+        "id": "ETH/USD/0x63342af7",
+        "price": "129584560000",
+        "timestamp": "1664363255"
+      },
+      {
+        "id": "ETH/USD/0x63342827",
+        "price": "130258793362",
+        "timestamp": "1664362535"
+      },
+      {
+        "id": "ETH/USD/0x6334244f",
+        "price": "130407426584",
+        "timestamp": "1664361551"
+      },
+      {
+        "id": "ETH/USD/0x633420e3",
+        "price": "129646000000",
+        "timestamp": "1664360675"
+      },
+      {
+        "id": "ETH/USD/0x63341fdb",
+        "price": "128900776751",
+        "timestamp": "1664360411"
+      },
+      {
+        "id": "ETH/USD/0x63341eeb",
+        "price": "128190000000",
+        "timestamp": "1664360171"
+      },
+      {
+        "id": "ETH/USD/0x63341d53",
+        "price": "127407777089",
+        "timestamp": "1664359763"
+      },
+      {
+        "id": "ETH/USD/0x63341c93",
+        "price": "126716000000",
+        "timestamp": "1664359571"
+      },
+      {
+        "id": "ETH/USD/0x63341bd3",
+        "price": "128029000000",
+        "timestamp": "1664359379"
+      },
+      {
+        "id": "ETH/USD/0x63341a3b",
+        "price": "127273847041",
+        "timestamp": "1664358971"
+      },
+      {
+        "id": "ETH/USD/0x63340f67",
+        "price": "127596589740",
+        "timestamp": "1664356199"
+      },
+      {
+        "id": "ETH/USD/0x63340c07",
+        "price": "128386279710",
+        "timestamp": "1664355335"
+      },
+      {
+        "id": "ETH/USD/0x633403bb",
+        "price": "127900893458",
+        "timestamp": "1664353211"
+      },
+      {
+        "id": "ETH/USD/0x6333ff17",
+        "price": "128545883330",
+        "timestamp": "1664352023"
+      },
+      {
+        "id": "ETH/USD/0x6333fe27",
+        "price": "128556966872",
+        "timestamp": "1664351783"
+      },
+      {
+        "id": "ETH/USD/0x6333fbab",
+        "price": "128445104317",
+        "timestamp": "1664351147"
+      },
+      {
+        "id": "ETH/USD/0x6333f63b",
+        "price": "127782333219",
+        "timestamp": "1664349755"
+      },
+      {
+        "id": "ETH/USD/0x6333f2e7",
+        "price": "127089000000",
+        "timestamp": "1664348903"
+      },
+      {
+        "id": "ETH/USD/0x6333eff3",
+        "price": "128145684729",
+        "timestamp": "1664348147"
+      },
+      {
+        "id": "ETH/USD/0x6333e6c3",
+        "price": "128532848368",
+        "timestamp": "1664345795"
+      },
+      {
+        "id": "ETH/USD/0x6333e3c3",
+        "price": "129185293760",
+        "timestamp": "1664345027"
+      },
+      {
+        "id": "ETH/USD/0x6333e1e3",
+        "price": "128528059779",
+        "timestamp": "1664344547"
+      },
+      {
+        "id": "ETH/USD/0x6333d3d3",
+        "price": "128307608522",
+        "timestamp": "1664340947"
+      },
+      {
+        "id": "ETH/USD/0x6333c5c3",
+        "price": "128461000000",
+        "timestamp": "1664337347"
+      },
+      {
+        "id": "ETH/USD/0x6333b9e7",
+        "price": "128373000000",
+        "timestamp": "1664334311"
+      },
+      {
+        "id": "ETH/USD/0x6333b7b3",
+        "price": "127734279136",
+        "timestamp": "1664333747"
+      },
+      {
+        "id": "ETH/USD/0x6333b633",
+        "price": "127907289179",
+        "timestamp": "1664333363"
+      },
+      {
+        "id": "ETH/USD/0x6333b2c7",
+        "price": "127107190000",
+        "timestamp": "1664332487"
+      },
+      {
+        "id": "ETH/USD/0x6333b207",
+        "price": "127780548265",
+        "timestamp": "1664332295"
+      },
+      {
+        "id": "ETH/USD/0x6333aee3",
+        "price": "128426930000",
+        "timestamp": "1664331491"
+      },
+      {
+        "id": "ETH/USD/0x6333adb7",
+        "price": "129117090000",
+        "timestamp": "1664331191"
+      },
+      {
+        "id": "ETH/USD/0x6333ac37",
+        "price": "130129052953",
+        "timestamp": "1664330807"
+      },
+      {
+        "id": "ETH/USD/0x6333a997",
+        "price": "130873269792",
+        "timestamp": "1664330135"
+      },
+      {
+        "id": "ETH/USD/0x6333a6d3",
+        "price": "130680000000",
+        "timestamp": "1664329427"
+      },
+      {
+        "id": "ETH/USD/0x6333a3af",
+        "price": "131354096907",
+        "timestamp": "1664328623"
+      },
+      {
+        "id": "ETH/USD/0x6333a367",
+        "price": "132072227325",
+        "timestamp": "1664328551"
+      },
+      {
+        "id": "ETH/USD/0x6333a1b7",
+        "price": "132649243063",
+        "timestamp": "1664328119"
+      },
+      {
+        "id": "ETH/USD/0x6333a19f",
+        "price": "132740000000",
+        "timestamp": "1664328095"
+      },
+      {
+        "id": "ETH/USD/0x63339b93",
+        "price": "133502650205",
+        "timestamp": "1664326547"
+      },
+      {
+        "id": "ETH/USD/0x633392ff",
+        "price": "133686813542",
+        "timestamp": "1664324351"
+      },
+      {
+        "id": "ETH/USD/0x63338d77",
+        "price": "132954307579",
+        "timestamp": "1664322935"
+      },
+      {
+        "id": "ETH/USD/0x63337f73",
+        "price": "132820013263",
+        "timestamp": "1664319347"
+      },
+      {
+        "id": "ETH/USD/0x633377f3",
+        "price": "133043216745",
+        "timestamp": "1664317427"
+      },
+      {
+        "id": "ETH/USD/0x63337157",
+        "price": "132250000000",
+        "timestamp": "1664315735"
+      },
+      {
+        "id": "ETH/USD/0x63336347",
+        "price": "132260622660",
+        "timestamp": "1664312135"
+      },
+      {
+        "id": "ETH/USD/0x6333570b",
+        "price": "131871084062",
+        "timestamp": "1664309003"
+      },
+      {
+        "id": "ETH/USD/0x63335537",
+        "price": "132692000000",
+        "timestamp": "1664308535"
+      },
+      {
+        "id": "ETH/USD/0x6333545f",
+        "price": "132388594832",
+        "timestamp": "1664308319"
+      },
+      {
+        "id": "ETH/USD/0x63334fc7",
+        "price": "131702150204",
+        "timestamp": "1664307143"
+      },
+      {
+        "id": "ETH/USD/0x63334727",
+        "price": "132410000000",
+        "timestamp": "1664304935"
+      },
+      {
+        "id": "ETH/USD/0x633345fb",
+        "price": "132287000000",
+        "timestamp": "1664304635"
+      },
+      {
+        "id": "ETH/USD/0x6333435b",
+        "price": "131458537926",
+        "timestamp": "1664303963"
+      },
+      {
+        "id": "ETH/USD/0x63333ee7",
+        "price": "130711369104",
+        "timestamp": "1664302823"
+      },
+      {
+        "id": "ETH/USD/0x63333917",
+        "price": "131377000000",
+        "timestamp": "1664301335"
+      },
+      {
+        "id": "ETH/USD/0x63333623",
+        "price": "131400000000",
+        "timestamp": "1664300579"
+      },
+      {
+        "id": "ETH/USD/0x633335e7",
+        "price": "132065759173",
+        "timestamp": "1664300519"
+      },
+      {
+        "id": "ETH/USD/0x6333341f",
+        "price": "132770677684",
+        "timestamp": "1664300063"
+      },
+      {
+        "id": "ETH/USD/0x63332d23",
+        "price": "132100000000",
+        "timestamp": "1664298275"
+      },
+      {
+        "id": "ETH/USD/0x63332b13",
+        "price": "132815582739",
+        "timestamp": "1664297747"
+      },
+      {
+        "id": "ETH/USD/0x6333293f",
+        "price": "132691681386",
+        "timestamp": "1664297279"
+      },
+      {
+        "id": "ETH/USD/0x633327d7",
+        "price": "133410413781",
+        "timestamp": "1664296919"
+      },
+      {
+        "id": "ETH/USD/0x6333231b",
+        "price": "134260000000",
+        "timestamp": "1664295707"
+      },
+      {
+        "id": "ETH/USD/0x633321b3",
+        "price": "134941410000",
+        "timestamp": "1664295347"
+      },
+      {
+        "id": "ETH/USD/0x633320e7",
+        "price": "135722810021",
+        "timestamp": "1664295143"
+      },
+      {
+        "id": "ETH/USD/0x63331f1f",
+        "price": "136424000000",
+        "timestamp": "1664294687"
+      },
+      {
+        "id": "ETH/USD/0x63331d03",
+        "price": "137129829814",
+        "timestamp": "1664294147"
+      },
+      {
+        "id": "ETH/USD/0x63331877",
+        "price": "137401600452",
+        "timestamp": "1664292983"
+      },
+      {
+        "id": "ETH/USD/0x63331613",
+        "price": "138291083139",
+        "timestamp": "1664292371"
+      },
+      {
+        "id": "ETH/USD/0x63330ef3",
+        "price": "138991880000",
+        "timestamp": "1664290547"
+      },
+      {
+        "id": "ETH/USD/0x633300e3",
+        "price": "138915000000",
+        "timestamp": "1664286947"
+      },
+      {
+        "id": "ETH/USD/0x6332ff7b",
+        "price": "138964000000",
+        "timestamp": "1664286587"
+      },
+      {
+        "id": "ETH/USD/0x6332fcc3",
+        "price": "139683000000",
+        "timestamp": "1664285891"
+      },
+      {
+        "id": "ETH/USD/0x6332f4d7",
+        "price": "138860586376",
+        "timestamp": "1664283863"
+      },
+      {
+        "id": "ETH/USD/0x6332f2d3",
+        "price": "139600536429",
+        "timestamp": "1664283347"
+      },
+      {
+        "id": "ETH/USD/0x6332e997",
+        "price": "139473835825",
+        "timestamp": "1664280983"
+      },
+      {
+        "id": "ETH/USD/0x6332e6af",
+        "price": "138775980416",
+        "timestamp": "1664280239"
+      },
+      {
+        "id": "ETH/USD/0x6332e4c3",
+        "price": "139478000000",
+        "timestamp": "1664279747"
+      },
+      {
+        "id": "ETH/USD/0x6332e13f",
+        "price": "139311780000",
+        "timestamp": "1664278847"
+      },
+      {
+        "id": "ETH/USD/0x6332d6a7",
+        "price": "138614602710",
+        "timestamp": "1664276135"
+      },
+      {
+        "id": "ETH/USD/0x6332c897",
+        "price": "138307890287",
+        "timestamp": "1664272535"
+      },
+      {
+        "id": "ETH/USD/0x6332c49b",
+        "price": "138523000000",
+        "timestamp": "1664271515"
+      },
+      {
+        "id": "ETH/USD/0x6332ba93",
+        "price": "137826780000",
+        "timestamp": "1664268947"
+      },
+      {
+        "id": "ETH/USD/0x6332ada3",
+        "price": "138253841622",
+        "timestamp": "1664265635"
+      },
+      {
+        "id": "ETH/USD/0x6332ac77",
+        "price": "138398909447",
+        "timestamp": "1664265335"
+      },
+      {
+        "id": "ETH/USD/0x63329e67",
+        "price": "138502126328",
+        "timestamp": "1664261735"
+      },
+      {
+        "id": "ETH/USD/0x63329ce7",
+        "price": "138510282782",
+        "timestamp": "1664261351"
+      },
+      {
+        "id": "ETH/USD/0x633295eb",
+        "price": "139221000000",
+        "timestamp": "1664259563"
+      },
+      {
+        "id": "ETH/USD/0x63329057",
+        "price": "138262925758",
+        "timestamp": "1664258135"
+      },
+      {
+        "id": "ETH/USD/0x6332823b",
+        "price": "138190000000",
+        "timestamp": "1664254523"
+      },
+      {
+        "id": "ETH/USD/0x63327437",
+        "price": "138691667460",
+        "timestamp": "1664250935"
+      },
+      {
+        "id": "ETH/USD/0x63326d83",
+        "price": "138845700000",
+        "timestamp": "1664249219"
+      },
+      {
+        "id": "ETH/USD/0x633269c3",
+        "price": "137885230186",
+        "timestamp": "1664248259"
+      },
+      {
+        "id": "ETH/USD/0x6332663f",
+        "price": "137080121076",
+        "timestamp": "1664247359"
+      },
+      {
+        "id": "ETH/USD/0x63325823",
+        "price": "136825390000",
+        "timestamp": "1664243747"
+      },
+      {
+        "id": "ETH/USD/0x633256c7",
+        "price": "136918000000",
+        "timestamp": "1664243399"
+      },
+      {
+        "id": "ETH/USD/0x63325427",
+        "price": "137460000000",
+        "timestamp": "1664242727"
+      },
+      {
+        "id": "ETH/USD/0x6332529b",
+        "price": "137632118332",
+        "timestamp": "1664242331"
+      },
+      {
+        "id": "ETH/USD/0x6332526b",
+        "price": "136743000000",
+        "timestamp": "1664242283"
+      },
+      {
+        "id": "ETH/USD/0x633250c7",
+        "price": "135842114598",
+        "timestamp": "1664241863"
+      },
+      {
+        "id": "ETH/USD/0x63324dc7",
+        "price": "135114000000",
+        "timestamp": "1664241095"
+      },
+      {
+        "id": "ETH/USD/0x63324a1f",
+        "price": "134373500000",
+        "timestamp": "1664240159"
+      },
+      {
+        "id": "ETH/USD/0x63324833",
+        "price": "134707054547",
+        "timestamp": "1664239667"
+      },
+      {
+        "id": "ETH/USD/0x6332459f",
+        "price": "133700000000",
+        "timestamp": "1664239007"
+      },
+      {
+        "id": "ETH/USD/0x63324053",
+        "price": "134446582310",
+        "timestamp": "1664237651"
+      },
+      {
+        "id": "ETH/USD/0x63323c03",
+        "price": "133619778697",
+        "timestamp": "1664236547"
+      },
+      {
+        "id": "ETH/USD/0x63323447",
+        "price": "133525000000",
+        "timestamp": "1664234567"
+      },
+      {
+        "id": "ETH/USD/0x63322df3",
+        "price": "132842619252",
+        "timestamp": "1664232947"
+      },
+      {
+        "id": "ETH/USD/0x6332297f",
+        "price": "133364997868",
+        "timestamp": "1664231807"
+      },
+      {
+        "id": "ETH/USD/0x63322637",
+        "price": "132534468021",
+        "timestamp": "1664230967"
+      },
+      {
+        "id": "ETH/USD/0x63321fe3",
+        "price": "131842850000",
+        "timestamp": "1664229347"
+      },
+      {
+        "id": "ETH/USD/0x63321e1b",
+        "price": "131658116836",
+        "timestamp": "1664228891"
+      },
+      {
+        "id": "ETH/USD/0x633211d3",
+        "price": "132391710000",
+        "timestamp": "1664225747"
+      },
+      {
+        "id": "ETH/USD/0x63320e67",
+        "price": "132269906757",
+        "timestamp": "1664224871"
+      },
+      {
+        "id": "ETH/USD/0x63320477",
+        "price": "132963650826",
+        "timestamp": "1664222327"
+      },
+      {
+        "id": "ETH/USD/0x633203b7",
+        "price": "133644564651",
+        "timestamp": "1664222135"
+      },
+      {
+        "id": "ETH/USD/0x63320363",
+        "price": "133910000000",
+        "timestamp": "1664222051"
+      },
+      {
+        "id": "ETH/USD/0x6331f5a7",
+        "price": "133204182951",
+        "timestamp": "1664218535"
+      },
+      {
+        "id": "ETH/USD/0x6331e797",
+        "price": "132577000000",
+        "timestamp": "1664214935"
+      },
+      {
+        "id": "ETH/USD/0x6331e1df",
+        "price": "132288824679",
+        "timestamp": "1664213471"
+      },
+      {
+        "id": "ETH/USD/0x6331dd83",
+        "price": "131600091734",
+        "timestamp": "1664212355"
+      },
+      {
+        "id": "ETH/USD/0x6331d987",
+        "price": "132307560000",
+        "timestamp": "1664211335"
+      },
+      {
+        "id": "ETH/USD/0x6331d7bf",
+        "price": "132123540824",
+        "timestamp": "1664210879"
+      },
+      {
+        "id": "ETH/USD/0x6331d40b",
+        "price": "131380000000",
+        "timestamp": "1664209931"
+      },
+      {
+        "id": "ETH/USD/0x6331cb77",
+        "price": "132131520000",
+        "timestamp": "1664207735"
+      },
+      {
+        "id": "ETH/USD/0x6331c4ab",
+        "price": "132111731807",
+        "timestamp": "1664205995"
+      },
+      {
+        "id": "ETH/USD/0x6331c397",
+        "price": "133099460000",
+        "timestamp": "1664205719"
+      },
+      {
+        "id": "ETH/USD/0x6331c0c7",
+        "price": "132401486320",
+        "timestamp": "1664204999"
+      },
+      {
+        "id": "ETH/USD/0x6331bd67",
+        "price": "133190549129",
+        "timestamp": "1664204135"
+      },
+      {
+        "id": "ETH/USD/0x6331b45b",
+        "price": "133164353458",
+        "timestamp": "1664201819"
+      },
+      {
+        "id": "ETH/USD/0x6331af6f",
+        "price": "132396980000",
+        "timestamp": "1664200559"
+      },
+      {
+        "id": "ETH/USD/0x6331ae43",
+        "price": "132548082563",
+        "timestamp": "1664200259"
+      },
+      {
+        "id": "ETH/USD/0x6331ac9f",
+        "price": "131841010000",
+        "timestamp": "1664199839"
+      },
+      {
+        "id": "ETH/USD/0x6331ab37",
+        "price": "132538108630",
+        "timestamp": "1664199479"
+      },
+      {
+        "id": "ETH/USD/0x6331aa3b",
+        "price": "131836244485",
+        "timestamp": "1664199227"
+      },
+      {
+        "id": "ETH/USD/0x6331a96f",
+        "price": "131021819736",
+        "timestamp": "1664199023"
+      },
+      {
+        "id": "ETH/USD/0x6331a73b",
+        "price": "131689000000",
+        "timestamp": "1664198459"
+      },
+      {
+        "id": "ETH/USD/0x6331a453",
+        "price": "130911000000",
+        "timestamp": "1664197715"
+      },
+      {
+        "id": "ETH/USD/0x6331a19b",
+        "price": "131628134416",
+        "timestamp": "1664197019"
+      },
+      {
+        "id": "ETH/USD/0x6331a00f",
+        "price": "131743000000",
+        "timestamp": "1664196623"
+      },
+      {
+        "id": "ETH/USD/0x63319f73",
+        "price": "131043000000",
+        "timestamp": "1664196467"
+      },
+      {
+        "id": "ETH/USD/0x63319a1b",
+        "price": "130260000000",
+        "timestamp": "1664195099"
+      },
+      {
+        "id": "ETH/USD/0x6331937f",
+        "price": "129605000000",
+        "timestamp": "1664193407"
+      },
+      {
+        "id": "ETH/USD/0x6331919f",
+        "price": "129760000000",
+        "timestamp": "1664192927"
+      },
+      {
+        "id": "ETH/USD/0x63318dc7",
+        "price": "129086000000",
+        "timestamp": "1664191943"
+      },
+      {
+        "id": "ETH/USD/0x63318c9b",
+        "price": "129739000000",
+        "timestamp": "1664191643"
+      },
+      {
+        "id": "ETH/USD/0x6331892f",
+        "price": "130430000000",
+        "timestamp": "1664190767"
+      },
+      {
+        "id": "ETH/USD/0x63318533",
+        "price": "131284000000",
+        "timestamp": "1664189747"
+      },
+      {
+        "id": "ETH/USD/0x63317723",
+        "price": "131147998403",
+        "timestamp": "1664186147"
+      },
+      {
+        "id": "ETH/USD/0x6331743b",
+        "price": "131048105290",
+        "timestamp": "1664185403"
+      },
+      {
+        "id": "ETH/USD/0x63316c97",
+        "price": "131719000000",
+        "timestamp": "1664183447"
+      },
+      {
+        "id": "ETH/USD/0x63316aff",
+        "price": "132460000000",
+        "timestamp": "1664183039"
+      },
+      {
+        "id": "ETH/USD/0x63316913",
+        "price": "131791184770",
+        "timestamp": "1664182547"
+      },
+      {
+        "id": "ETH/USD/0x63316877",
+        "price": "131761000000",
+        "timestamp": "1664182391"
+      },
+      {
+        "id": "ETH/USD/0x633163a3",
+        "price": "130934128724",
+        "timestamp": "1664181155"
+      },
+      {
+        "id": "ETH/USD/0x63315edb",
+        "price": "130240713823",
+        "timestamp": "1664179931"
+      },
+      {
+        "id": "ETH/USD/0x63315c2f",
+        "price": "129558000000",
+        "timestamp": "1664179247"
+      },
+      {
+        "id": "ETH/USD/0x63315b03",
+        "price": "129509267369",
+        "timestamp": "1664178947"
+      },
+      {
+        "id": "ETH/USD/0x633153bf",
+        "price": "129673723330",
+        "timestamp": "1664177087"
+      },
+      {
+        "id": "ETH/USD/0x63315257",
+        "price": "128996667736",
+        "timestamp": "1664176727"
+      },
+      {
+        "id": "ETH/USD/0x63314ce7",
+        "price": "128353143935",
+        "timestamp": "1664175335"
+      },
+      {
+        "id": "ETH/USD/0x63314297",
+        "price": "128433848297",
+        "timestamp": "1664172695"
+      },
+      {
+        "id": "ETH/USD/0x63313ee3",
+        "price": "129297379811",
+        "timestamp": "1664171747"
+      },
+      {
+        "id": "ETH/USD/0x633138e3",
+        "price": "128782000000",
+        "timestamp": "1664170211"
+      },
+      {
+        "id": "ETH/USD/0x633130c7",
+        "price": "129465295770",
+        "timestamp": "1664168135"
+      },
+      {
+        "id": "ETH/USD/0x63312ee7",
+        "price": "129580000000",
+        "timestamp": "1664167655"
+      },
+      {
+        "id": "ETH/USD/0x633122b7",
+        "price": "130273435000",
+        "timestamp": "1664164535"
+      },
+      {
+        "id": "ETH/USD/0x63311def",
+        "price": "130624259490",
+        "timestamp": "1664163311"
+      },
+      {
+        "id": "ETH/USD/0x63311b37",
+        "price": "131330000000",
+        "timestamp": "1664162615"
+      },
+      {
+        "id": "ETH/USD/0x6331149b",
+        "price": "130491000000",
+        "timestamp": "1664160923"
+      },
+      {
+        "id": "ETH/USD/0x63310d0f",
+        "price": "130828233253",
+        "timestamp": "1664158991"
+      },
+      {
+        "id": "ETH/USD/0x6331068b",
+        "price": "130138515026",
+        "timestamp": "1664157323"
+      },
+      {
+        "id": "ETH/USD/0x63310373",
+        "price": "130628897236",
+        "timestamp": "1664156531"
+      },
+      {
+        "id": "ETH/USD/0x633101db",
+        "price": "129810636576",
+        "timestamp": "1664156123"
+      },
+      {
+        "id": "ETH/USD/0x6330ffe3",
+        "price": "129090706750",
+        "timestamp": "1664155619"
+      },
+      {
+        "id": "ETH/USD/0x6330fbe7",
+        "price": "129791352751",
+        "timestamp": "1664154599"
+      },
+      {
+        "id": "ETH/USD/0x6330fa07",
+        "price": "129088000000",
+        "timestamp": "1664154119"
+      },
+      {
+        "id": "ETH/USD/0x6330f89f",
+        "price": "129933000000",
+        "timestamp": "1664153759"
+      },
+      {
+        "id": "ETH/USD/0x6330f5cf",
+        "price": "130098539686",
+        "timestamp": "1664153039"
+      },
+      {
+        "id": "ETH/USD/0x6330ee8b",
+        "price": "130800000000",
+        "timestamp": "1664151179"
+      },
+      {
+        "id": "ETH/USD/0x6330ea6b",
+        "price": "129700000000",
+        "timestamp": "1664150123"
+      },
+      {
+        "id": "ETH/USD/0x6330e9db",
+        "price": "129728260000",
+        "timestamp": "1664149979"
+      },
+      {
+        "id": "ETH/USD/0x6330e6cf",
+        "price": "128972790689",
+        "timestamp": "1664149199"
+      },
+      {
+        "id": "ETH/USD/0x6330e0cf",
+        "price": "129674669038",
+        "timestamp": "1664147663"
+      },
+      {
+        "id": "ETH/USD/0x6330dd0f",
+        "price": "128965778236",
+        "timestamp": "1664146703"
+      },
+      {
+        "id": "ETH/USD/0x6330dc7f",
+        "price": "129694082939",
+        "timestamp": "1664146559"
+      },
+      {
+        "id": "ETH/USD/0x6330d4db",
+        "price": "129591000000",
+        "timestamp": "1664144603"
+      },
+      {
+        "id": "ETH/USD/0x6330d2e3",
+        "price": "128893593456",
+        "timestamp": "1664144099"
+      },
+      {
+        "id": "ETH/USD/0x6330d20b",
+        "price": "128074280436",
+        "timestamp": "1664143883"
+      },
+      {
+        "id": "ETH/USD/0x6330d02b",
+        "price": "127392502810",
+        "timestamp": "1664143403"
+      },
+      {
+        "id": "ETH/USD/0x6330ceab",
+        "price": "128727000000",
+        "timestamp": "1664143019"
+      },
+      {
+        "id": "ETH/USD/0x6330ca4f",
+        "price": "128657000000",
+        "timestamp": "1664141903"
+      },
+      {
+        "id": "ETH/USD/0x6330c05f",
+        "price": "129332862693",
+        "timestamp": "1664139359"
+      },
+      {
+        "id": "ETH/USD/0x6330b243",
+        "price": "129907000000",
+        "timestamp": "1664135747"
+      },
+      {
+        "id": "ETH/USD/0x6330a433",
+        "price": "129878870000",
+        "timestamp": "1664132147"
+      },
+      {
+        "id": "ETH/USD/0x63309623",
+        "price": "129280852293",
+        "timestamp": "1664128547"
+      },
+      {
+        "id": "ETH/USD/0x6330954b",
+        "price": "129405956013",
+        "timestamp": "1664128331"
+      },
+      {
+        "id": "ETH/USD/0x6330936b",
+        "price": "128691000000",
+        "timestamp": "1664127851"
+      },
+      {
+        "id": "ETH/USD/0x63308dcb",
+        "price": "129412566688",
+        "timestamp": "1664126411"
+      },
+      {
+        "id": "ETH/USD/0x63308a53",
+        "price": "128735375723",
+        "timestamp": "1664125523"
+      },
+      {
+        "id": "ETH/USD/0x6330897b",
+        "price": "129493794023",
+        "timestamp": "1664125307"
+      },
+      {
+        "id": "ETH/USD/0x6330891b",
+        "price": "130204250000",
+        "timestamp": "1664125211"
+      },
+      {
+        "id": "ETH/USD/0x63308813",
+        "price": "131185000000",
+        "timestamp": "1664124947"
+      },
+      {
+        "id": "ETH/USD/0x63308123",
+        "price": "131336000000",
+        "timestamp": "1664123171"
+      },
+      {
+        "id": "ETH/USD/0x63307f43",
+        "price": "132040361259",
+        "timestamp": "1664122691"
+      },
+      {
+        "id": "ETH/USD/0x633079f7",
+        "price": "131331400141",
+        "timestamp": "1664121335"
+      },
+      {
+        "id": "ETH/USD/0x633072bf",
+        "price": "131382784481",
+        "timestamp": "1664119487"
+      },
+      {
+        "id": "ETH/USD/0x63306be7",
+        "price": "130675750000",
+        "timestamp": "1664117735"
+      },
+      {
+        "id": "ETH/USD/0x6330647f",
+        "price": "130701482065",
+        "timestamp": "1664115839"
+      },
+      {
+        "id": "ETH/USD/0x63306173",
+        "price": "130027596158",
+        "timestamp": "1664115059"
+      },
+      {
+        "id": "ETH/USD/0x63305e13",
+        "price": "130755268866",
+        "timestamp": "1664114195"
+      },
+      {
+        "id": "ETH/USD/0x63305a53",
+        "price": "130366880000",
+        "timestamp": "1664113235"
+      },
+      {
+        "id": "ETH/USD/0x633057fb",
+        "price": "131060000000",
+        "timestamp": "1664112635"
+      },
+      {
+        "id": "ETH/USD/0x6330530f",
+        "price": "131830000000",
+        "timestamp": "1664111375"
+      },
+      {
+        "id": "ETH/USD/0x63304fdf",
+        "price": "132541611932",
+        "timestamp": "1664110559"
+      },
+      {
+        "id": "ETH/USD/0x63304a87",
+        "price": "132439937045",
+        "timestamp": "1664109191"
+      },
+      {
+        "id": "ETH/USD/0x633041ab",
+        "price": "133107000000",
+        "timestamp": "1664106923"
+      },
+      {
+        "id": "ETH/USD/0x6330339b",
+        "price": "132553545114",
+        "timestamp": "1664103323"
+      },
+      {
+        "id": "ETH/USD/0x6330258b",
+        "price": "132443000000",
+        "timestamp": "1664099723"
+      },
+      {
+        "id": "ETH/USD/0x6330236f",
+        "price": "132328920000",
+        "timestamp": "1664099183"
+      },
+      {
+        "id": "ETH/USD/0x6330188f",
+        "price": "132999000000",
+        "timestamp": "1664096399"
+      },
+      {
+        "id": "ETH/USD/0x633017f3",
+        "price": "132964000000",
+        "timestamp": "1664096243"
+      },
+      {
+        "id": "ETH/USD/0x63300aeb",
+        "price": "133320000000",
+        "timestamp": "1664092907"
+      },
+      {
+        "id": "ETH/USD/0x63300ad3",
+        "price": "133284000000",
+        "timestamp": "1664092883"
+      },
+      {
+        "id": "ETH/USD/0x63300983",
+        "price": "133249375033",
+        "timestamp": "1664092547"
+      },
+      {
+        "id": "ETH/USD/0x63300767",
+        "price": "132880000000",
+        "timestamp": "1664092007"
+      },
+      {
+        "id": "ETH/USD/0x6330015b",
+        "price": "133549623481",
+        "timestamp": "1664090459"
+      },
+      {
+        "id": "ETH/USD/0x632ffb67",
+        "price": "132731999687",
+        "timestamp": "1664088935"
+      },
+      {
+        "id": "ETH/USD/0x632fed63",
+        "price": "132334000000",
+        "timestamp": "1664085347"
+      },
+      {
+        "id": "ETH/USD/0x632fe67f",
+        "price": "132158786370",
+        "timestamp": "1664083583"
+      },
+      {
+        "id": "ETH/USD/0x632fdf53",
+        "price": "132822929426",
+        "timestamp": "1664081747"
+      },
+      {
+        "id": "ETH/USD/0x632fd143",
+        "price": "132724000000",
+        "timestamp": "1664078147"
+      },
+      {
+        "id": "ETH/USD/0x632fce73",
+        "price": "132826630960",
+        "timestamp": "1664077427"
+      },
+      {
+        "id": "ETH/USD/0x632fc333",
+        "price": "132122894549",
+        "timestamp": "1664074547"
+      },
+      {
+        "id": "ETH/USD/0x632fb8e3",
+        "price": "131796000000",
+        "timestamp": "1664071907"
+      },
+      {
+        "id": "ETH/USD/0x632fb517",
+        "price": "132095000000",
+        "timestamp": "1664070935"
+      },
+      {
+        "id": "ETH/USD/0x632fa713",
+        "price": "132015000000",
+        "timestamp": "1664067347"
+      },
+      {
+        "id": "ETH/USD/0x632f98f7",
+        "price": "132032528277",
+        "timestamp": "1664063735"
+      },
+      {
+        "id": "ETH/USD/0x632f8ae7",
+        "price": "131400000000",
+        "timestamp": "1664060135"
+      },
+      {
+        "id": "ETH/USD/0x632f8943",
+        "price": "131390764706",
+        "timestamp": "1664059715"
+      },
+      {
+        "id": "ETH/USD/0x632f879f",
+        "price": "132160308209",
+        "timestamp": "1664059295"
+      },
+      {
+        "id": "ETH/USD/0x632f80d3",
+        "price": "131500877380",
+        "timestamp": "1664057555"
+      },
+      {
+        "id": "ETH/USD/0x632f7cd7",
+        "price": "132288000000",
+        "timestamp": "1664056535"
+      },
+      {
+        "id": "ETH/USD/0x632f744f",
+        "price": "132676000000",
+        "timestamp": "1664054351"
+      },
+      {
+        "id": "ETH/USD/0x632f73d7",
+        "price": "133479720533",
+        "timestamp": "1664054231"
+      },
+      {
+        "id": "ETH/USD/0x632f6ec7",
+        "price": "134238000000",
+        "timestamp": "1664052935"
+      },
+      {
+        "id": "ETH/USD/0x632f60b7",
+        "price": "134229916556",
+        "timestamp": "1664049335"
+      },
+      {
+        "id": "ETH/USD/0x632f529b",
+        "price": "134308000000",
+        "timestamp": "1664045723"
+      },
+      {
+        "id": "ETH/USD/0x632f5247",
+        "price": "134305000000",
+        "timestamp": "1664045639"
+      },
+      {
+        "id": "ETH/USD/0x632f4497",
+        "price": "133480000000",
+        "timestamp": "1664042135"
+      },
+      {
+        "id": "ETH/USD/0x632f369f",
+        "price": "133882851959",
+        "timestamp": "1664038559"
+      },
+      {
+        "id": "ETH/USD/0x632f2b3b",
+        "price": "134570000000",
+        "timestamp": "1664035643"
+      },
+      {
+        "id": "ETH/USD/0x632f2883",
+        "price": "133813000000",
+        "timestamp": "1664034947"
+      },
+      {
+        "id": "ETH/USD/0x632f255f",
+        "price": "133513630000",
+        "timestamp": "1664034143"
+      },
+      {
+        "id": "ETH/USD/0x632f1ac7",
+        "price": "134223000000",
+        "timestamp": "1664031431"
+      },
+      {
+        "id": "ETH/USD/0x632f1abb",
+        "price": "134157730673",
+        "timestamp": "1664031419"
+      },
+      {
+        "id": "ETH/USD/0x632f0c63",
+        "price": "134379000000",
+        "timestamp": "1664027747"
+      },
+      {
+        "id": "ETH/USD/0x632f0a0b",
+        "price": "134629902752",
+        "timestamp": "1664027147"
+      },
+      {
+        "id": "ETH/USD/0x632f00ff",
+        "price": "133949000000",
+        "timestamp": "1664024831"
+      },
+      {
+        "id": "ETH/USD/0x632efe53",
+        "price": "133090216656",
+        "timestamp": "1664024147"
+      },
+      {
+        "id": "ETH/USD/0x632efba7",
+        "price": "133520000000",
+        "timestamp": "1664023463"
+      },
+      {
+        "id": "ETH/USD/0x632ef043",
+        "price": "132791000000",
+        "timestamp": "1664020547"
+      },
+      {
+        "id": "ETH/USD/0x632ee9e3",
+        "price": "133203963991",
+        "timestamp": "1664018915"
+      },
+      {
+        "id": "ETH/USD/0x632ee227",
+        "price": "132490000000",
+        "timestamp": "1664016935"
+      },
+      {
+        "id": "ETH/USD/0x632ed5a3",
+        "price": "132660000000",
+        "timestamp": "1664013731"
+      },
+      {
+        "id": "ETH/USD/0x632ed42f",
+        "price": "132748468084",
+        "timestamp": "1664013359"
+      },
+      {
+        "id": "ETH/USD/0x632ecf4f",
+        "price": "132260707762",
+        "timestamp": "1664012111"
+      },
+      {
+        "id": "ETH/USD/0x632ec607",
+        "price": "132930000000",
+        "timestamp": "1664009735"
+      },
+      {
+        "id": "ETH/USD/0x632ec577",
+        "price": "132908000000",
+        "timestamp": "1664009591"
+      },
+      {
+        "id": "ETH/USD/0x632eb923",
+        "price": "132235274128",
+        "timestamp": "1664006435"
+      },
+      {
+        "id": "ETH/USD/0x632eb7f7",
+        "price": "132167359660",
+        "timestamp": "1664006135"
+      },
+      {
+        "id": "ETH/USD/0x632ea9db",
+        "price": "132407113138",
+        "timestamp": "1664002523"
+      },
+      {
+        "id": "ETH/USD/0x632e9e8f",
+        "price": "132784007957",
+        "timestamp": "1663999631"
+      },
+      {
+        "id": "ETH/USD/0x632e9bd7",
+        "price": "133558562293",
+        "timestamp": "1663998935"
+      },
+      {
+        "id": "ETH/USD/0x632e9b9b",
+        "price": "133702034434",
+        "timestamp": "1663998875"
+      },
+      {
+        "id": "ETH/USD/0x632e8dbb",
+        "price": "132848388070",
+        "timestamp": "1663995323"
+      },
+      {
+        "id": "ETH/USD/0x632e8d8b",
+        "price": "132849000000",
+        "timestamp": "1663995275"
+      },
+      {
+        "id": "ETH/USD/0x632e7fb7",
+        "price": "132104000000",
+        "timestamp": "1663991735"
+      },
+      {
+        "id": "ETH/USD/0x632e7cff",
+        "price": "131708298914",
+        "timestamp": "1663991039"
+      },
+      {
+        "id": "ETH/USD/0x632e71b3",
+        "price": "132370402048",
+        "timestamp": "1663988147"
+      },
+      {
+        "id": "ETH/USD/0x632e6bfb",
+        "price": "132672519672",
+        "timestamp": "1663986683"
+      },
+      {
+        "id": "ETH/USD/0x632e6b47",
+        "price": "132389000000",
+        "timestamp": "1663986503"
+      },
+      {
+        "id": "ETH/USD/0x632e63a3",
+        "price": "131972586625",
+        "timestamp": "1663984547"
+      },
+      {
+        "id": "ETH/USD/0x632e5dd3",
+        "price": "131791228662",
+        "timestamp": "1663983059"
+      },
+      {
+        "id": "ETH/USD/0x632e59ef",
+        "price": "132454000000",
+        "timestamp": "1663982063"
+      },
+      {
+        "id": "ETH/USD/0x632e5593",
+        "price": "131767000000",
+        "timestamp": "1663980947"
+      },
+      {
+        "id": "ETH/USD/0x632e4d23",
+        "price": "131786390372",
+        "timestamp": "1663978787"
+      },
+      {
+        "id": "ETH/USD/0x632e4783",
+        "price": "132523170000",
+        "timestamp": "1663977347"
+      },
+      {
+        "id": "ETH/USD/0x632e46f3",
+        "price": "132658933647",
+        "timestamp": "1663977203"
+      },
+      {
+        "id": "ETH/USD/0x632e3c5b",
+        "price": "133562000000",
+        "timestamp": "1663974491"
+      },
+      {
+        "id": "ETH/USD/0x632e3973",
+        "price": "132882592891",
+        "timestamp": "1663973747"
+      },
+      {
+        "id": "ETH/USD/0x632e3697",
+        "price": "132960198010",
+        "timestamp": "1663973015"
+      },
+      {
+        "id": "ETH/USD/0x632e33bb",
+        "price": "133636000000",
+        "timestamp": "1663972283"
+      },
+      {
+        "id": "ETH/USD/0x632e2ca7",
+        "price": "132949331813",
+        "timestamp": "1663970471"
+      },
+      {
+        "id": "ETH/USD/0x632e2bc3",
+        "price": "132280000000",
+        "timestamp": "1663970243"
+      },
+      {
+        "id": "ETH/USD/0x632e2b9f",
+        "price": "132496000000",
+        "timestamp": "1663970207"
+      },
+      {
+        "id": "ETH/USD/0x632e286f",
+        "price": "132186934206",
+        "timestamp": "1663969391"
+      },
+      {
+        "id": "ETH/USD/0x632e2833",
+        "price": "131445285114",
+        "timestamp": "1663969331"
+      },
+      {
+        "id": "ETH/USD/0x632e1d47",
+        "price": "130414341812",
+        "timestamp": "1663966535"
+      },
+      {
+        "id": "ETH/USD/0x632e14ef",
+        "price": "130551750000",
+        "timestamp": "1663964399"
+      },
+      {
+        "id": "ETH/USD/0x632e119b",
+        "price": "129823460932",
+        "timestamp": "1663963547"
+      },
+      {
+        "id": "ETH/USD/0x632e0f37",
+        "price": "129156053782",
+        "timestamp": "1663962935"
+      },
+      {
+        "id": "ETH/USD/0x632e0c2b",
+        "price": "129010000000",
+        "timestamp": "1663962155"
+      },
+      {
+        "id": "ETH/USD/0x632e0943",
+        "price": "128289091303",
+        "timestamp": "1663961411"
+      },
+      {
+        "id": "ETH/USD/0x632e08b3",
+        "price": "127630544778",
+        "timestamp": "1663961267"
+      },
+      {
+        "id": "ETH/USD/0x632e07e7",
+        "price": "128480668980",
+        "timestamp": "1663961063"
+      },
+      {
+        "id": "ETH/USD/0x632e074b",
+        "price": "129310672453",
+        "timestamp": "1663960907"
+      },
+      {
+        "id": "ETH/USD/0x632e056b",
+        "price": "128666000000",
+        "timestamp": "1663960427"
+      },
+      {
+        "id": "ETH/USD/0x632e0433",
+        "price": "129370000000",
+        "timestamp": "1663960115"
+      },
+      {
+        "id": "ETH/USD/0x632e0133",
+        "price": "128676000000",
+        "timestamp": "1663959347"
+      },
+      {
+        "id": "ETH/USD/0x632df96b",
+        "price": "129365261130",
+        "timestamp": "1663957355"
+      },
+      {
+        "id": "ETH/USD/0x632df6fb",
+        "price": "128450000000",
+        "timestamp": "1663956731"
+      },
+      {
+        "id": "ETH/USD/0x632df6bf",
+        "price": "129300000000",
+        "timestamp": "1663956671"
+      },
+      {
+        "id": "ETH/USD/0x632df5f3",
+        "price": "130078622842",
+        "timestamp": "1663956467"
+      },
+      {
+        "id": "ETH/USD/0x632df317",
+        "price": "129120179588",
+        "timestamp": "1663955735"
+      },
+      {
+        "id": "ETH/USD/0x632decdb",
+        "price": "128819000000",
+        "timestamp": "1663954139"
+      },
+      {
+        "id": "ETH/USD/0x632de4fb",
+        "price": "129700000000",
+        "timestamp": "1663952123"
+      },
+      {
+        "id": "ETH/USD/0x632de42f",
+        "price": "129282140000",
+        "timestamp": "1663951919"
+      },
+      {
+        "id": "ETH/USD/0x632dde8f",
+        "price": "128549603024",
+        "timestamp": "1663950479"
+      },
+      {
+        "id": "ETH/USD/0x632ddc8b",
+        "price": "129230000000",
+        "timestamp": "1663949963"
+      },
+      {
+        "id": "ETH/USD/0x632ddac3",
+        "price": "128518370872",
+        "timestamp": "1663949507"
+      },
+      {
+        "id": "ETH/USD/0x632dd6f7",
+        "price": "129191794022",
+        "timestamp": "1663948535"
+      },
+      {
+        "id": "ETH/USD/0x632dd697",
+        "price": "129555858512",
+        "timestamp": "1663948439"
+      },
+      {
+        "id": "ETH/USD/0x632dd577",
+        "price": "128850000000",
+        "timestamp": "1663948151"
+      },
+      {
+        "id": "ETH/USD/0x632dd43f",
+        "price": "129535000000",
+        "timestamp": "1663947839"
+      },
+      {
+        "id": "ETH/USD/0x632dcfd7",
+        "price": "130246000000",
+        "timestamp": "1663946711"
+      },
+      {
+        "id": "ETH/USD/0x632dce9f",
+        "price": "129526000000",
+        "timestamp": "1663946399"
+      },
+      {
+        "id": "ETH/USD/0x632dcbcf",
+        "price": "128645824814",
+        "timestamp": "1663945679"
+      },
+      {
+        "id": "ETH/USD/0x632dcadf",
+        "price": "127910000000",
+        "timestamp": "1663945439"
+      },
+      {
+        "id": "ETH/USD/0x632dc917",
+        "price": "128617360000",
+        "timestamp": "1663944983"
+      },
+      {
+        "id": "ETH/USD/0x632dc75b",
+        "price": "128796000000",
+        "timestamp": "1663944539"
+      },
+      {
+        "id": "ETH/USD/0x632dc2c3",
+        "price": "128110000000",
+        "timestamp": "1663943363"
+      },
+      {
+        "id": "ETH/USD/0x632dc1bb",
+        "price": "127446325798",
+        "timestamp": "1663943099"
+      },
+      {
+        "id": "ETH/USD/0x632dbe13",
+        "price": "128126000000",
+        "timestamp": "1663942163"
+      },
+      {
+        "id": "ETH/USD/0x632dbda7",
+        "price": "127450000000",
+        "timestamp": "1663942055"
+      },
+      {
+        "id": "ETH/USD/0x632dbcab",
+        "price": "126685000000",
+        "timestamp": "1663941803"
+      },
+      {
+        "id": "ETH/USD/0x632dbb7f",
+        "price": "127469977302",
+        "timestamp": "1663941503"
+      },
+      {
+        "id": "ETH/USD/0x632dbad7",
+        "price": "128435683284",
+        "timestamp": "1663941335"
+      },
+      {
+        "id": "ETH/USD/0x632dba5f",
+        "price": "128511000000",
+        "timestamp": "1663941215"
+      },
+      {
+        "id": "ETH/USD/0x632db9ab",
+        "price": "129400895845",
+        "timestamp": "1663941035"
+      },
+      {
+        "id": "ETH/USD/0x632db837",
+        "price": "130515099105",
+        "timestamp": "1663940663"
+      },
+      {
+        "id": "ETH/USD/0x632db297",
+        "price": "131424819222",
+        "timestamp": "1663939223"
+      },
+      {
+        "id": "ETH/USD/0x632dafc7",
+        "price": "130659000000",
+        "timestamp": "1663938503"
+      },
+      {
+        "id": "ETH/USD/0x632dacdf",
+        "price": "129986000000",
+        "timestamp": "1663937759"
+      },
+      {
+        "id": "ETH/USD/0x632da35b",
+        "price": "130000000000",
+        "timestamp": "1663935323"
+      },
+      {
+        "id": "ETH/USD/0x632da193",
+        "price": "129280000000",
+        "timestamp": "1663934867"
+      },
+      {
+        "id": "ETH/USD/0x632d9ec3",
+        "price": "128587280014",
+        "timestamp": "1663934147"
+      },
+      {
+        "id": "ETH/USD/0x632d9b63",
+        "price": "128657141276",
+        "timestamp": "1663933283"
+      },
+      {
+        "id": "ETH/USD/0x632d98cf",
+        "price": "129340000000",
+        "timestamp": "1663932623"
+      },
+      {
+        "id": "ETH/USD/0x632d963b",
+        "price": "128684824125",
+        "timestamp": "1663931963"
+      },
+      {
+        "id": "ETH/USD/0x632d90ef",
+        "price": "129334000000",
+        "timestamp": "1663930607"
+      },
+      {
+        "id": "ETH/USD/0x632d8fb7",
+        "price": "129836000000",
+        "timestamp": "1663930295"
+      },
+      {
+        "id": "ETH/USD/0x632d878f",
+        "price": "130768273144",
+        "timestamp": "1663928207"
+      },
+      {
+        "id": "ETH/USD/0x632d857f",
+        "price": "131459000000",
+        "timestamp": "1663927679"
+      },
+      {
+        "id": "ETH/USD/0x632d82a3",
+        "price": "130781000000",
+        "timestamp": "1663926947"
+      },
+      {
+        "id": "ETH/USD/0x632d7e47",
+        "price": "130683444096",
+        "timestamp": "1663925831"
+      },
+      {
+        "id": "ETH/USD/0x632d7dcf",
+        "price": "131401635648",
+        "timestamp": "1663925711"
+      },
+      {
+        "id": "ETH/USD/0x632d7b47",
+        "price": "132098639731",
+        "timestamp": "1663925063"
+      },
+      {
+        "id": "ETH/USD/0x632d7493",
+        "price": "131439897822",
+        "timestamp": "1663923347"
+      },
+      {
+        "id": "ETH/USD/0x632d726b",
+        "price": "131676585068",
+        "timestamp": "1663922795"
+      },
+      {
+        "id": "ETH/USD/0x632d707f",
+        "price": "132400000000",
+        "timestamp": "1663922303"
+      },
+      {
+        "id": "ETH/USD/0x632d6f6b",
+        "price": "131720000000",
+        "timestamp": "1663922027"
+      },
+      {
+        "id": "ETH/USD/0x632d6dbb",
+        "price": "132494136711",
+        "timestamp": "1663921595"
+      },
+      {
+        "id": "ETH/USD/0x632d67af",
+        "price": "133160000000",
+        "timestamp": "1663920047"
+      },
+      {
+        "id": "ETH/USD/0x632d66bf",
+        "price": "133257188668",
+        "timestamp": "1663919807"
+      },
+      {
+        "id": "ETH/USD/0x632d62c3",
+        "price": "133629975214",
+        "timestamp": "1663918787"
+      },
+      {
+        "id": "ETH/USD/0x632d5c57",
+        "price": "134307000000",
+        "timestamp": "1663917143"
+      },
+      {
+        "id": "ETH/USD/0x632d59f3",
+        "price": "133635000000",
+        "timestamp": "1663916531"
+      },
+      {
+        "id": "ETH/USD/0x632d5873",
+        "price": "134335000000",
+        "timestamp": "1663916147"
+      },
+      {
+        "id": "ETH/USD/0x632d4a57",
+        "price": "134604000000",
+        "timestamp": "1663912535"
+      },
+      {
+        "id": "ETH/USD/0x632d401f",
+        "price": "134746945347",
+        "timestamp": "1663909919"
+      },
+      {
+        "id": "ETH/USD/0x632d3c47",
+        "price": "135460000000",
+        "timestamp": "1663908935"
+      },
+      {
+        "id": "ETH/USD/0x632d3b03",
+        "price": "135734726530",
+        "timestamp": "1663908611"
+      },
+      {
+        "id": "ETH/USD/0x632d36e3",
+        "price": "134848920000",
+        "timestamp": "1663907555"
+      },
+      {
+        "id": "ETH/USD/0x632d2e4f",
+        "price": "134046000000",
+        "timestamp": "1663905359"
+      },
+      {
+        "id": "ETH/USD/0x632d25af",
+        "price": "134157000000",
+        "timestamp": "1663903151"
+      },
+      {
+        "id": "ETH/USD/0x632d245f",
+        "price": "133405670000",
+        "timestamp": "1663902815"
+      },
+      {
+        "id": "ETH/USD/0x632d204b",
+        "price": "132619032909",
+        "timestamp": "1663901771"
+      },
+      {
+        "id": "ETH/USD/0x632d1dab",
+        "price": "132536350000",
+        "timestamp": "1663901099"
+      },
+      {
+        "id": "ETH/USD/0x632d195b",
+        "price": "132376957547",
+        "timestamp": "1663899995"
+      },
+      {
+        "id": "ETH/USD/0x632d1217",
+        "price": "133055000000",
+        "timestamp": "1663898135"
+      },
+      {
+        "id": "ETH/USD/0x632d0ddf",
+        "price": "132503000000",
+        "timestamp": "1663897055"
+      },
+      {
+        "id": "ETH/USD/0x632d0cef",
+        "price": "131797316704",
+        "timestamp": "1663896815"
+      },
+      {
+        "id": "ETH/USD/0x632d03fb",
+        "price": "132626000000",
+        "timestamp": "1663894523"
+      },
+      {
+        "id": "ETH/USD/0x632cfdef",
+        "price": "132951000000",
+        "timestamp": "1663892975"
+      },
+      {
+        "id": "ETH/USD/0x632cfb1f",
+        "price": "133620000000",
+        "timestamp": "1663892255"
+      },
+      {
+        "id": "ETH/USD/0x632cf5f7",
+        "price": "132779396660",
+        "timestamp": "1663890935"
+      },
+      {
+        "id": "ETH/USD/0x632cf49b",
+        "price": "132696184478",
+        "timestamp": "1663890587"
+      },
+      {
+        "id": "ETH/USD/0x632cf303",
+        "price": "133370000000",
+        "timestamp": "1663890179"
+      },
+      {
+        "id": "ETH/USD/0x632ced1b",
+        "price": "132605652907",
+        "timestamp": "1663888667"
+      },
+      {
+        "id": "ETH/USD/0x632cec8b",
+        "price": "133383730000",
+        "timestamp": "1663888523"
+      },
+      {
+        "id": "ETH/USD/0x632ceb47",
+        "price": "134155471964",
+        "timestamp": "1663888199"
+      },
+      {
+        "id": "ETH/USD/0x632ceab7",
+        "price": "133152090000",
+        "timestamp": "1663888055"
+      },
+      {
+        "id": "ETH/USD/0x632ce7db",
+        "price": "132131963186",
+        "timestamp": "1663887323"
+      }
+    ]
+  }
+}

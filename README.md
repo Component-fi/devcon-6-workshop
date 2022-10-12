@@ -6,7 +6,6 @@ python 3.6+
 git
 
 # Setup
-
 Check your version of python
 ```
 python -V
@@ -22,3 +21,7 @@ Activate the new virtual environment
 source env/bin/activate
 ```
 
+Install Dependencies
+```
+pip install gql
+```
