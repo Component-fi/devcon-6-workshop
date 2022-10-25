@@ -35,8 +35,7 @@ def process_data(prices):
     from sklearn.metrics import mean_squared_error
 
     arma_rmse = np.sqrt(mean_squared_error(test["price"].values, y_pred_df["Predictions"]))
-    print("RMSE: ",arma_rmse)
+    print("RMSE: ", arma_rmse)
 
-    # now we need to interpet this as a long or short
     if y_pred_out[0] > y_pred_out.iloc[-1]:
         return False

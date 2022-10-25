@@ -29,11 +29,16 @@ def get_prices():
   df = pd.DataFrame(result['prices'])
 
   # Now we need to resample our data so that there is only 1 per hour
-  df['Datetime'] = df['time']
+  df['Datetime'] = pd.to_datetime(df['timestamp'], unit='s')
+
+  df.drop('timestamp', axis=1, inplace=True)
 
   df.set_index('Datetime', inplace=True)
 
   sample = df.resample('1H').last()
 
-  print(len(sample))
+  print(sample)
   return sample
+
+if __name__ == "__main__":
+    get_prices()

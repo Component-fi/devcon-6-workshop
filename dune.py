@@ -25,7 +25,6 @@ def get_prices():
     data3 = list(data2)
 
     df = pd.DataFrame(data3)
-    print(df)
 
     df['time'] =  pd.to_datetime(df['minute'], infer_datetime_format=True)
     df = df.drop('minute', axis=1)
@@ -42,4 +41,8 @@ def get_prices():
 
     df = df.rename(columns={'time': 'Datetime', 'average': 'price'})
     df.set_index('Datetime', inplace = True)
+    print(df)
     return df
+
+if __name__ == "__main__":
+    get_prices()
